@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T23:06:28.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="kgnBpuiFPNveFwznwXpT" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T23:21:18.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="9BObEJPYoLqAMDl31VjM" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="1128" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,14 @@
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-15" value="5.&amp;nbsp; Organizar asambleas&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%223.%26amp%3Bnbsp%3B%20Zonas%20Comunes%26lt%3Bbr%26gt%3BYo%20como%20habitante%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3BQuiero%20conocer%20los%20horarios%20de%20las%20zonas%20comunes%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3BPara%20programar%20mis%20actividades%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BlabelPosition%3Dcenter%3BverticalLabelPosition%3Dmiddle%3BverticalAlign%3Dtop%3BlabelBackgroundColor%3Dnone%3BlabelBorderColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%22360%22%20width%3D%22240%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;Yo como administrador&amp;nbsp;&lt;br&gt;Quiero quiero tener un medio&lt;br&gt;Para poder comunicarme con los habitantes" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="680" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="svupegZ1BK7ZTZ6G6fqw-16" value="-La asamblea debe ser en un lugar cómodo para todos los habitantes" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="svupegZ1BK7ZTZ6G6fqw-16" value="-La asamblea debe ser en un lugar cómodo para todos los habitantes&lt;br&gt;-Debe ser programada en un acuerdo común&lt;br&gt;-Se debe notificar masiva mente por correo o una plataforma de uso global" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="680" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="svupegZ1BK7ZTZ6G6fqw-17" value="6.&amp;nbsp; Notificar disponibilidad de parqueaderos&lt;br&gt;Yo como visitante&lt;br&gt;Quiero saber si hay espacios de parqueaderos disponibles&lt;br&gt;Para programar las visitas" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="svupegZ1BK7ZTZ6G6fqw-19" value="-Si no hay parqueaderos disponibles se debe notificar." style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="840" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
