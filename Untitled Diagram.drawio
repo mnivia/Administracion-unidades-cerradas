@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T00:53:36.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="PoLPW6jsBgQBH5BgrFMm" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T00:54:11.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="abzJJ7TyEaXvgxFmgJuN" version="13.6.4" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="858" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="GmmOpCF_TdwQESO5ywc--6" value="- Se debe notificar a qué hora y cuál empresa realizó el envío&amp;nbsp;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="1300" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GmmOpCF_TdwQESO5ywc--7" value="10. Informar suspensión servicios básicos&lt;br&gt;&lt;br&gt;Yo como habitante&lt;br&gt;Quiero saber qué días habrá interrupción de los servicios públicos&lt;br&gt;Para informarme y estar preparado" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="GmmOpCF_TdwQESO5ywc--7" value="11. Informar suspensión servicios básicos&lt;br&gt;&lt;br&gt;Yo como habitante&lt;br&gt;Quiero saber qué días habrá interrupción de los servicios públicos&lt;br&gt;Para informarme y estar preparado" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1630" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wmToTJCJ_HMqrvunaIP7-2" value="-El contrato debe definir claramente mis facultades y limitaciones en mi trabajo.&lt;br&gt;-El contrato debe definir&amp;nbsp;las clausulas respectivas para situaciones especificas&lt;br&gt;-El contrato debe estipular el presupuesto necesario para llevar a cabo mis proyectos" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
@@ -79,13 +79,13 @@
         <mxCell id="GmmOpCF_TdwQESO5ywc--8" value="&lt;br&gt;- Se debe notificar la duración y la naturaleza de la interrupción&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="1634" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GmmOpCF_TdwQESO5ywc--9" value="11. Informar cambios en la cuota de administración&amp;nbsp;&lt;br&gt;&lt;br&gt;Yo como propietario o inquilino&amp;nbsp;&lt;br&gt;Quiero que se me notifique de los cambios en las tarifas de la administración de la unidad&lt;br&gt;Para no dar cabida a incrementos irregulares o impertinenetes" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="GmmOpCF_TdwQESO5ywc--9" value="12. Informar cambios en la cuota de administración&amp;nbsp;&lt;br&gt;&lt;br&gt;Yo como propietario o inquilino&amp;nbsp;&lt;br&gt;Quiero que se me notifique de los cambios en las tarifas de la administración de la unidad&lt;br&gt;Para no dar cabida a incrementos irregulares o impertinenetes" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1780" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GmmOpCF_TdwQESO5ywc--10" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="1780" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GmmOpCF_TdwQESO5ywc--11" value="12.&amp;nbsp;&lt;br&gt;Yo como habitante de la unidad&lt;br&gt;Quiero tener acceso a la contabilidad de la unidad&lt;br&gt;Para conocer en qué se están destinando los recursos de la unidad" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="GmmOpCF_TdwQESO5ywc--11" value="13.&amp;nbsp;&lt;br&gt;Yo como habitante de la unidad&lt;br&gt;Quiero tener acceso a la contabilidad de la unidad&lt;br&gt;Para conocer en qué se están destinando los recursos de la unidad" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1960" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
