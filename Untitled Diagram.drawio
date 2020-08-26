@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T00:13:39.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="KKEZM0bWQPjVCuOfhq_I" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T00:15:30.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="StpGVrBuCkl8TXJhodMn" version="13.6.4" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="1030" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-8" value="2. Tener seguridad&lt;br&gt;Yo como habitante&lt;br&gt;Quiero que en la unidad haya una empresa de seguridad&amp;nbsp;&lt;br&gt;Para estar mas seguros" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="svupegZ1BK7ZTZ6G6fqw-10" value="-Se debe contar con vigilancia las 24 horas&lt;br&gt;-Los vigilantes deben entregar un informe en cada turno&lt;br&gt;-Se debe contar con circuito cerrado de vigilancia&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="svupegZ1BK7ZTZ6G6fqw-10" value="-Se debe contar con vigilancia las 24 horas&lt;br&gt;-Los vigilantes deben entregar un informe en cada turno&lt;br&gt;-Se debe contar con circuito cerrado de vigilancia&lt;br&gt;-Lista de habitantes actualmente dentro de la unidad&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="200" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-11" value="3.&amp;nbsp; Conocer programación de zonas Comunes&lt;br&gt;Yo como habitante&amp;nbsp;&lt;br&gt;Quiero conocer los horarios de las zonas comunes&amp;nbsp;&lt;br&gt;Para programar mis actividades&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
