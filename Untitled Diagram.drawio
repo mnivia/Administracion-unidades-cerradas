@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T23:27:54.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="lBakEHzwHVNnW79_x7SC" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T23:52:05.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="KscJRGOBTUaFZRVzR94_" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="EFDIbAfgCz1s7sX5n9Mg-3" value="- En la red social el habitante de la unidad puede ver eventos que tendrán lugar en la unidad&lt;br&gt;- En la red social los usuarios puede convocar y publicar clasificados" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="2140" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fJNXB6Iudmitxb3w2NpN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-2" value="- Al administra" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="2320" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fJNXB6Iudmitxb3w2NpN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
