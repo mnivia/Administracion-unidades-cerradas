@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T00:01:56.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="16ly291Fd0HmPsqkD3Yi" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T00:02:23.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="m2wS-r6EtQRDoQtqLvQp" version="13.6.4" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="1030" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,8 +55,8 @@
         <mxCell id="GmmOpCF_TdwQESO5ywc--2" value="- Se debe notificar en dónde en qué instalación fue el daño y su naturaleza" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="1010" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="o6eJGdyiI8SA0mOjxIi0-1" value="hola" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1000" width="120" height="60" as="geometry" />
+        <mxCell id="o6eJGdyiI8SA0mOjxIi0-2" value="hola" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="60" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
