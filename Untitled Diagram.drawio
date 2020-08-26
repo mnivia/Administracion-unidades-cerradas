@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T00:12:39.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="xMSBdly9MWH1EDjJRi_0" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T00:13:39.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="KKEZM0bWQPjVCuOfhq_I" version="13.6.4" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="1030" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-5" value="Yo como inquilino&lt;br&gt;Quiero que exista un reglamento interno&lt;br&gt;Para mejorar la convivencia en la unidad" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="svupegZ1BK7ZTZ6G6fqw-7" value="-El reglamento debe ser claro y conciso&lt;br&gt;-Se debe informar cuando se haga algún cambio en el.&lt;br&gt;-Deberá ser validado por todos los habitantes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="svupegZ1BK7ZTZ6G6fqw-7" value="-El reglamento debe ser claro y conciso&lt;br&gt;-Se debe informar cuando se haga algún cambio en el.&lt;br&gt;-Deberá ser aceptado por todos los habitantes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="70" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-8" value="2. Tener seguridad&lt;br&gt;Yo como habitante&lt;br&gt;Quiero que en la unidad haya una empresa de seguridad&amp;nbsp;&lt;br&gt;Para estar mas seguros" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
