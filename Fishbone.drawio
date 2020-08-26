@@ -1,1 +1,283 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T17:32:54.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="bRdpc83mDNhTlLovRyy7" version="13.6.5" type="github"><diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-26T20:24:50.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="VRIh2I1qEolJXbOc9auU" version="13.6.5" type="github">
+  <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
+    <mxGraphModel dx="1917" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-264" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-240" y="280" as="sourcePoint" />
+            <mxPoint x="760" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-265" value="" style="endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="G1P_aBHV-7jrVRY7QvX3-299">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="280" as="sourcePoint" />
+            <mxPoint x="480" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-266" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="G1P_aBHV-7jrVRY7QvX3-302">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="280" as="sourcePoint" />
+            <mxPoint x="480" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-267" value="" style="endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="160" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-268" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="160" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-270" value="Falta de canales de comunicación&amp;nbsp;&amp;nbsp;&lt;br&gt;administración-habitantes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="188" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-271" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="189.5" as="sourcePoint" />
+            <mxPoint x="380" y="189.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-272" value="Ausencia de espacios para asambleas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-273" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="G1P_aBHV-7jrVRY7QvX3-332">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-59" y="280" as="sourcePoint" />
+            <mxPoint x="-179" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-119" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-274" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-128" y="160" as="sourcePoint" />
+            <mxPoint x="-270" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-275" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="182" y="120" as="sourcePoint" />
+            <mxPoint x="32" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-276" value="Contratos ambiguos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="100" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-277" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="160" as="sourcePoint" />
+            <mxPoint x="30" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-278" value="Las finanzas de la unidad se llevan a lápiz y calculadora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="290" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-279" value="No hay un control de parqueo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-280" value="Falta de Mantenimiento de las zonas comunes&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="310" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-281" value="Mala gestión financiera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-282" value="Clausulas&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-283" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="200" as="sourcePoint" />
+            <mxPoint x="35" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-284" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="349" as="sourcePoint" />
+            <mxPoint x="415" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-285" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="380" as="sourcePoint" />
+            <mxPoint x="360" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-286" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="493" y="432" as="sourcePoint" />
+            <mxPoint x="343" y="432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-290" value="No hay una agenda para separar espacios comunes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="328" y="399" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-291" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="257" y="320" as="sourcePoint" />
+            <mxPoint x="57" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-292" value="Falta de una infraestructura tecnológica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-293" value="Manejo inadecuado de los residuos sólidos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="310" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-294" value="Los registros de los propietarios y arrendatarios están en papel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="350" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-295" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="381" as="sourcePoint" />
+            <mxPoint x="40" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-296" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="556" y="345" as="sourcePoint" />
+            <mxPoint x="726" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-297" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="440" as="sourcePoint" />
+            <mxPoint x="6" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-299" value="Mala comunicación&lt;br&gt;administración-habitantes de la unidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-300" value="Comunicación&lt;br&gt;administración-Prestadores de servicios&amp;nbsp;&lt;br&gt;(Tema administrativo)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-301" value="Obsolescencia en los sistemas&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="480" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-302" value="Control de la zonas comunes&lt;br&gt;(Zonas comunes)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-303" value="Ineficiencia en la gestión&lt;br&gt;&amp;nbsp;y administración de una unidad cerrada" style="triangle;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="180" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-306" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="280" as="sourcePoint" />
+            <mxPoint x="-210" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-307" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-89" y="329" as="sourcePoint" />
+            <mxPoint x="-269" y="329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-308" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-125" y="390" as="sourcePoint" />
+            <mxPoint x="-305" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-309" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="449" as="sourcePoint" />
+            <mxPoint x="-340" y="449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-311" value="Falta de participación en las decisiones&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-313" value="Precaria o ausente seguridad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-314" value="No hay cámaras de seguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-376" y="420" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-316" value="Falta de control de registro de visitantes&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="365" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-317" value="Falta de contratacion de personal de seguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="306" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-318" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="140" as="sourcePoint" />
+            <mxPoint x="400" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-321" value="No se conocen las inversiones en la unidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369" y="117" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-325" value="No hay horarios establecidos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="429" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-326" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519" y="404.5" as="sourcePoint" />
+            <mxPoint x="689" y="404.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-327" value="Falta de personal&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-328" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="244" as="sourcePoint" />
+            <mxPoint x="410" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-330" value="No hay&amp;nbsp; canales para comunicar eventos sociales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-332" value="Mal ambiente social" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-239" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-335" value="Falta de un reglamento interno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="133" width="144" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-336" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-104" y="200" as="sourcePoint" />
+            <mxPoint x="-246" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-337" value="No pago o de las obligaciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-213" y="177" width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-339" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-77" y="252" as="sourcePoint" />
+            <mxPoint x="-219" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-340" value="Uso inadecuado de las zonas comunes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="228" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-341" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="228" as="sourcePoint" />
+            <mxPoint x="740" y="228" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-343" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="169.5" as="sourcePoint" />
+            <mxPoint x="710" y="169.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-345" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="482" y="452" as="sourcePoint" />
+            <mxPoint x="652" y="452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
