@@ -1,52 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T20:50:38.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ByhW5cTqho2g107aLz7J" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T23:27:02.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="ap98RWxA5qv3NFebQqS7" version="13.6.5" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
-    <mxGraphModel dx="2281" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1856" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-264" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-264" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-240" y="280" as="sourcePoint" />
             <mxPoint x="760" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-265" value="" style="endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="G1P_aBHV-7jrVRY7QvX3-299">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-265" value="" style="endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" target="G1P_aBHV-7jrVRY7QvX3-299" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="280" as="sourcePoint" />
             <mxPoint x="480" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-266" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="G1P_aBHV-7jrVRY7QvX3-302">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-266" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" target="G1P_aBHV-7jrVRY7QvX3-302" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="280" as="sourcePoint" />
             <mxPoint x="480" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-267" value="" style="endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-267" value="" style="endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="280" as="sourcePoint" />
             <mxPoint x="160" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-268" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-268" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="280" as="sourcePoint" />
             <mxPoint x="160" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-270" value="Falta de canales de comunicación&amp;nbsp;&amp;nbsp;&lt;br&gt;administración-habitantes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-270" value="Falta de canales de comunicación&amp;nbsp;&amp;nbsp;&lt;br&gt;administración-habitantes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="188" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-271" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-271" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="189.5" as="sourcePoint" />
             <mxPoint x="380" y="189.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-272" value="Ausencia de espacios para asambleas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-272" value="Ausencia de espacios para asambleas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="150" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-273" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="G1P_aBHV-7jrVRY7QvX3-332">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-273" value="" style="endArrow=classic;html=1;" parent="1" target="G1P_aBHV-7jrVRY7QvX3-332" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-59" y="280" as="sourcePoint" />
             <mxPoint x="-179" y="80" as="targetPoint" />
@@ -55,227 +55,230 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-274" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-274" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-146" y="125.33" as="sourcePoint" />
             <mxPoint x="-288" y="125.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-275" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-275" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="182" y="120" as="sourcePoint" />
             <mxPoint x="32" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-276" value="Contratos ambiguos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-276" value="Contratos ambiguos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="45" y="100" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-277" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-277" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="160" as="sourcePoint" />
             <mxPoint x="30" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-278" value="Las finanzas de la unidad se llevan a lápiz y calculadora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-278" value="Las finanzas de la unidad se llevan a lápiz y calculadora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="290" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-279" value="No hay un control de parqueo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-279" value="No hay un control de parqueo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="360" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-280" value="Falta de Mantenimiento de las zonas comunes&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-280" value="Falta de Mantenimiento de las zonas comunes&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="310" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-281" value="Malas decisiones financieras o corrupción" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-281" value="Malas decisiones financieras o corrupción" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="202" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-282" value="Clausulas&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-282" value="Clausulas&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="140" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-283" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-283" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="247" y="227" as="sourcePoint" />
             <mxPoint x="47" y="227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-284" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-284" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="555" y="349" as="sourcePoint" />
             <mxPoint x="415" y="349" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-285" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-285" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="380" as="sourcePoint" />
             <mxPoint x="360" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-286" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-286" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="493" y="432" as="sourcePoint" />
             <mxPoint x="343" y="432" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-290" value="No hay una agenda para separar espacios comunes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-290" value="No hay una agenda para separar espacios comunes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="328" y="399" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-291" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-291" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="257" y="320" as="sourcePoint" />
             <mxPoint x="57" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-292" value="Falta de una infraestructura tecnológica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-292" value="Falta de una infraestructura tecnológica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="410" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-293" value="Manejo inadecuado de los residuos sólidos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-293" value="Manejo inadecuado de los residuos sólidos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="310" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-294" value="Los registros de los propietarios y arrendatarios están en papel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-294" value="Los registros de los propietarios y arrendatarios están en papel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="350" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-295" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-295" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="381" as="sourcePoint" />
             <mxPoint x="40" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-296" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-296" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="556" y="345" as="sourcePoint" />
             <mxPoint x="726" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-297" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-297" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="186" y="440" as="sourcePoint" />
             <mxPoint x="6" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-299" value="Mala comunicación&lt;br&gt;administración-habitantes de la unidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-299" value="Mala comunicación&lt;br&gt;administración-habitantes de la unidad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-300" value="Mala administración de los recursos de la unidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-300" value="Mala administración de los recursos de la unidad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-301" value="Obsolescencia en los sistemas&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-301" value="Obsolescencia en los sistemas&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="480" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-302" value="Control de la zonas comunes&lt;br&gt;(Zonas comunes)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-302" value="Control de la zonas comunes&lt;br&gt;(Zonas comunes)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="480" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-303" value="Ineficiencia en la gestión&lt;br&gt;&amp;nbsp;y administración de una unidad cerrada" style="triangle;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-303" value="Ineficiencia en la gestión&lt;br&gt;&amp;nbsp;y administración de una unidad cerrada" style="triangle;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="760" y="180" width="190" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-306" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-306" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-63" y="280" as="sourcePoint" />
             <mxPoint x="-213" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-307" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-307" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-91" y="329" as="sourcePoint" />
             <mxPoint x="-271" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-308" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-308" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-127" y="390" as="sourcePoint" />
             <mxPoint x="-307" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-309" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-309" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-162" y="449" as="sourcePoint" />
             <mxPoint x="-342" y="449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-311" value="Falta de participación en las decisiones&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-311" value="Falta de participación en las decisiones&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="553" y="143" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-313" value="Precaria o ausente seguridad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-313" value="Precaria o ausente seguridad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-333" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-314" value="No hay&amp;nbsp; cámaras de seguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-314" value="No hay&amp;nbsp; cámaras de seguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-370" y="426" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-316" value="Falta de control de registro de visitantes&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-316" value="Falta de control de registro de visitantes&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-340" y="365" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-317" value="Falta de contratacion de personal de seguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-317" value="Falta de contratacion de personal de seguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-250" y="306" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-318" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-318" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="140" as="sourcePoint" />
             <mxPoint x="400" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-321" value="No se conocen las inversiones en la unidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-321" value="No se conocen las inversiones en la unidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="369" y="116" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-325" value="No hay horarios establecidos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-325" value="No hay horarios establecidos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="429" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-326" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-326" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="519" y="404.5" as="sourcePoint" />
             <mxPoint x="689" y="404.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-327" value="Falta de personal&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-327" value="Falta de personal&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="380" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-328" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-328" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="244" as="sourcePoint" />
             <mxPoint x="410" y="244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-330" value="No hay&amp;nbsp; canales para comunicar eventos sociales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-330" value="No hay&amp;nbsp; canales para comunicar eventos sociales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="220" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-332" value="Mala conducta de los habitantes de la unidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-332" value="Mala conducta de los habitantes de la unidad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-335" value="Falta de un reglamento interno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-335" value="Falta de un reglamento interno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-300" y="96" width="144" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-336" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-336" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-109" y="190" as="sourcePoint" />
             <mxPoint x="-251" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-337" value="No pago o atraso de las obligaciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-337" value="No pago o atraso de las obligaciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-227" y="160" width="94" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-339" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-339" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="242" as="sourcePoint" />
             <mxPoint x="-222" y="242" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-340" value="Uso inadecuado de las instalaciones&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-340" value="Uso inadecuado de las instalaciones&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-217" y="217" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-341" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-341" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="228" as="sourcePoint" />
             <mxPoint x="740" y="228" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-343" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-343" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="169.5" as="sourcePoint" />
             <mxPoint x="710" y="169.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-345" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-345" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="482" y="452" as="sourcePoint" />
             <mxPoint x="652" y="452" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eigxwMExvw6cQKTP2R2w-1" value="." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="240" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
