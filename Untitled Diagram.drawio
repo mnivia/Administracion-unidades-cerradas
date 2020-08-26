@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T00:05:15.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="0va1cA6M6V_tkYQJf-Yg" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T00:08:23.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="5TxCQR3v9-oy-s10dTLk" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="o6eJGdyiI8SA0mOjxIi0-2" value="hola" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GmmOpCF_TdwQESO5ywc--4" value="-&amp;nbsp; Se debe almacenar un registro de la hora de entrada y salida de los visitantes de la unidad&amp;nbsp;&lt;br&gt;- Se debe almacenar el numero de la placa&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1150" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
