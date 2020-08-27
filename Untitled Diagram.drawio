@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T01:02:33.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="gQdf7P4r3xTEu8DmY1ro" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T01:02:58.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="CRIozD_BgAkmeTkDaCMT" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
-    <mxGraphModel dx="1030" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="619" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,16 +46,16 @@
         <mxCell id="EFDIbAfgCz1s7sX5n9Mg-2" value="- El usuario al consultar esta información le debe de aparecer los informes contables que ha realizado el administrador periódicamente&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;i&gt;Estimación: 2&lt;/i&gt;&lt;br&gt;&lt;i&gt;Prioridad: 60&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Depende de: 13,14&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="2160" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EFDIbAfgCz1s7sX5n9Mg-3" value="- En la red social el habitante de la unidad puede ver eventos que tendrán lugar en la unidad&lt;br&gt;- En la red social los usuarios puede convocar y publicar clasificados&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;i&gt;Estimación: 1&lt;br&gt;Prioridad: 70&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Depende de: 14&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="EFDIbAfgCz1s7sX5n9Mg-3" value="- En la red social el habitante de la unidad puede ver eventos que tendrán lugar en la unidad&lt;br&gt;- En la red social los usuarios puede convocar y publicar clasificados&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;i&gt;Estimación: 1&lt;br&gt;Prioridad: 70&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Depende de: 14&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="401" y="2320" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fJNXB6Iudmitxb3w2NpN-2" value="- La interfaz le deberá dar acceso único al administrador a los estados a la facturación digital de la unidad&lt;br&gt;- La interfaz le permitirá ver al administrador quién ha realizado el pago y quién falta por pagar o están atrasados&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;i&gt;Estimación: 3&lt;br&gt;Prioridad: 70&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Depende de: 15,16&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-2" value="- La interfaz le deberá dar acceso único al administrador a los estados a la facturación digital de la unidad&lt;br&gt;- La interfaz le permitirá ver al administrador quién ha realizado el pago y quién falta por pagar o están atrasados&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;i&gt;Estimación: 3&lt;br&gt;Prioridad: 70&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Depende de: 15,16&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="2480" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fJNXB6Iudmitxb3w2NpN-3" value="-Al arrendatario o propietario le debe llegar la notificación cuando se ha pasado 10 días de la fecha de pago, de cuántas cuotas está atrasado y el monto, y&amp;nbsp;adjunto en la notificación un medio de pago electrónico para efectuar el pago.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;i&gt;Estimación: 2&lt;br&gt;Prioridad: 70&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Depende de: 16&lt;/i&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-3" value="-Al arrendatario o propietario le debe llegar la notificación cuando se ha pasado 10 días de la fecha de pago, de cuántas cuotas está atrasado y el monto, y&amp;nbsp;adjunto en la notificación un medio de pago electrónico para efectuar el pago.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;i&gt;Estimación: 2&lt;br&gt;Prioridad: 70&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Depende de: 16&lt;/i&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="2640" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="fJNXB6Iudmitxb3w2NpN-5" value="- Al propietario que no pudo estar en la asamblea le debe llegar una notificación anticipada de la hora de la votación&amp;nbsp;&lt;br&gt;- El propietario puede realizar la votación virtualmente&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;i&gt;Estimación: 2&lt;br&gt;Prioridad: 60&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Depende de: 17&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-5" value="- Al propietario que no pudo estar en la asamblea le debe llegar una notificación anticipada de la hora de la votación&amp;nbsp;&lt;br&gt;- El propietario puede realizar la votación virtualmente&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;i&gt;Estimación: 2&lt;br&gt;Prioridad: 60&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Depende de: 17&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="401" y="2840" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EFDIbAfgCz1s7sX5n9Mg-8" value="- La interfaz debe grabar y guardar en audio y video la asamblea&lt;br&gt;- El vídeo debe estar disponible para todos los miembros de la unidad&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;i&gt;Estimación: 3&lt;br&gt;Prioridad: 70&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Depende de: 18,19&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="KY7rtoQUxeBR3fSWKeVi-1" value="," style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="2870" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-25" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-25" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="40" y="1280" width="241" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GmmOpCF_TdwQESO5ywc--3" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;8. Registrar el ingreso de personas a la unidad&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como vigilante&amp;nbsp;&lt;br&gt;Quiero poder llevar un registro de las personas y vehículos que entran y salen de la unidad&lt;br&gt;Para tener un mejor control sobre la seguridad de la unidad" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-25" vertex="1">
@@ -79,10 +79,10 @@
         <mxCell id="EFDIbAfgCz1s7sX5n9Mg-9" value="19. Realizar asambleas virtuales&lt;br&gt;&lt;br&gt;Yo como administrador&amp;nbsp;&lt;br&gt;Quiero poder realizar asambleas virtuales&lt;br&gt;Para&amp;nbsp; mejorar la participación y gestión en los espacios asamblearios" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="39" y="3160" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-26" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-26" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="42" y="1480" width="242" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-35" value="" style="group" vertex="1" connectable="0" parent="KY7rtoQUxeBR3fSWKeVi-26">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-35" value="" style="group" connectable="0" vertex="1" parent="KY7rtoQUxeBR3fSWKeVi-26">
           <mxGeometry width="242" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GmmOpCF_TdwQESO5ywc--5" value="&lt;b&gt;9.Aviso de encomienda&lt;br&gt;&lt;/b&gt;&lt;br&gt;Yo como habitante&amp;nbsp;&lt;br&gt;Quiero que se me notifique cuando llega un paquete a la recepción&lt;br&gt;Para estar informado y evitar malentendidos&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-35" vertex="1">
@@ -94,10 +94,10 @@
             <mxPoint x="242" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-27" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-27" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="42" y="400" width="241" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-45" value="" style="group" vertex="1" connectable="0" parent="KY7rtoQUxeBR3fSWKeVi-27">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-45" value="" style="group" connectable="0" vertex="1" parent="KY7rtoQUxeBR3fSWKeVi-27">
           <mxGeometry width="241" height="160" as="geometry" />
         </mxCell>
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-11" value="&lt;b&gt;&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3.&amp;nbsp; Conocer programación de zonas Comunes&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Yo como habitante de la unidad&lt;br&gt;&lt;br&gt;Quiero conocer los horarios de disponibilidad de las zonas comunes&lt;br&gt;&amp;nbsp;&lt;br&gt;Para programar adecuadamente&amp;nbsp; mis actividades&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-45" vertex="1">
@@ -109,7 +109,7 @@
             <mxPoint x="241" y="40.00333333333333" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-28" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-28" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="39" y="200" width="241" height="160" as="geometry" />
         </mxCell>
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-8" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;2. Tener seguridad en la unidad.&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Yo como habitante&lt;br&gt;&amp;nbsp;&lt;br&gt;Quiero que la unidad tenga una empresa de seguridad privada&lt;br&gt;&lt;br&gt;Para la protección de todos los usuarios que estén dentro de la unidad" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-28" vertex="1">
@@ -121,10 +121,10 @@
             <mxPoint x="241" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-30" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-30" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="39" y="19" width="241" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-46" value="" style="group" vertex="1" connectable="0" parent="KY7rtoQUxeBR3fSWKeVi-30">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-46" value="" style="group" connectable="0" vertex="1" parent="KY7rtoQUxeBR3fSWKeVi-30">
           <mxGeometry width="241" height="140" as="geometry" />
         </mxCell>
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-1" value="&lt;b&gt;1. Tener reglamento interno&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como inquilino&lt;br&gt;&lt;br&gt;Quiero que exista un reglamento interno&lt;br&gt;&lt;br&gt;Para mejorar la convivencia en la unidad&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="KY7rtoQUxeBR3fSWKeVi-46" vertex="1">
@@ -136,7 +136,7 @@
             <mxPoint x="241" y="37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-31" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-31" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="241" height="160" as="geometry" />
         </mxCell>
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;4.&amp;nbsp; &amp;nbsp;Realizar el control de la unidad&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;%&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%223.%26amp%3Bnbsp%3B%20Zonas%20Comunes%26lt%3Bbr%26gt%3BYo%20como%20habitante%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3BQuiero%20conocer%20los%20horarios%20de%20las%20zonas%20comunes%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3BPara%20programar%20mis%20actividades%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BlabelPosition%3Dcenter%3BverticalLabelPosition%3Dmiddle%3BverticalAlign%3Dtop%3BlabelBackgroundColor%3Dnone%3BlabelBorderColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%22360%22%20width%3D%22240%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Yo como administrador&lt;br&gt;&amp;nbsp;&lt;br&gt;Quiero contar con todos los medios tecnológicos necesarios&lt;br&gt;&lt;br&gt;Para poder realizar una buena gestión y administración&amp;nbsp; de la unidad." style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-31" vertex="1">
@@ -148,7 +148,7 @@
             <mxPoint x="241" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-32" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-32" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="41" y="800" width="241" height="120" as="geometry" />
         </mxCell>
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-15" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;&lt;b&gt;5.Organizar asambleas&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;Yo como administrador&amp;nbsp;&lt;br&gt;Quiero quiero tener un medio&lt;br&gt;Para poder comunicarme con los habitantes&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-32" vertex="1">
@@ -160,7 +160,7 @@
             <mxPoint x="241" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-33" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-33" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="41" y="960" width="241" height="120" as="geometry" />
         </mxCell>
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-17" value="&lt;b&gt;&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;6. Disponibilidad de parqueaderos&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;Yo como visitante&lt;br&gt;Quiero saber si hay espacios de parqueaderos disponibles&lt;br&gt;Para programar mis visitas a la unidad" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-33" vertex="1">
@@ -172,7 +172,7 @@
             <mxPoint x="241" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-34" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-34" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="40" y="1120" width="241" height="120" as="geometry" />
         </mxCell>
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-21" value="&lt;b&gt;&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;7.&amp;nbsp; Notificar daños en las instalaciones&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Yo como empleado o habitante&amp;nbsp;&amp;nbsp;&lt;br&gt;Quiero poder comunicar los daños en la unidad a la administración&lt;br&gt;Para que todos los habitantes estén al tanto de la disponibilidad de las instalaciones&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-34" vertex="1">
@@ -184,7 +184,7 @@
             <mxPoint x="241" y="29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-36" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-36" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="39" y="1640" width="241" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wmToTJCJ_HMqrvunaIP7-1" value="&lt;b&gt;10. Establecer claramente los contratos con la administración&lt;br&gt;&lt;/b&gt;&lt;br&gt;Yo como administrador de la unidad&lt;br&gt;Quiero dar a conocer los contratos que se ejecutan dentro de la misma&lt;br&gt;Para poder ejercer una gestión clara y transparente" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-36" vertex="1">
@@ -196,7 +196,7 @@
             <mxPoint x="241" y="39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-37" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-37" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="40" y="1800" width="241" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GmmOpCF_TdwQESO5ywc--7" value="&lt;b&gt;11&lt;/b&gt;. &lt;b&gt;Informar suspensión servicios básicos&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como habitante&lt;br&gt;Quiero saber qué días habrá interrupción de los servicios públicos o los días de la basura&lt;br&gt;Para informarme y estar preparado" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-37" vertex="1">
@@ -208,7 +208,7 @@
             <mxPoint x="241" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-38" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-38" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="39" y="1960" width="241" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GmmOpCF_TdwQESO5ywc--9" value="&lt;b&gt;12&lt;/b&gt;. &lt;b&gt;Informar cambios en la cuota de administración&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como propietario o arrendatarios&amp;nbsp;&lt;br&gt;Quiero que se me notifique de los cambios en las tarifas de la administración de la unidad&lt;br&gt;Para no dar cabida a incrementos irregulares o impertinentes" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-38" vertex="1">
@@ -220,7 +220,7 @@
             <mxPoint x="241" y="45.71428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-39" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-39" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="39" y="2160" width="242" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GmmOpCF_TdwQESO5ywc--11" value="&lt;b&gt;13.&lt;/b&gt;&amp;nbsp; &lt;b&gt;Informe de gastos&lt;/b&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;Yo como habitante de la unidad&lt;br&gt;Quiero tener acceso a la contabilidad de la unidad&lt;br&gt;Para conocer en qué se están destinando los recursos&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KY7rtoQUxeBR3fSWKeVi-39" vertex="1">
@@ -232,7 +232,7 @@
             <mxPoint x="242" y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-40" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-40" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="39" y="2320" width="241" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GmmOpCF_TdwQESO5ywc--12" value="&lt;b&gt;14. Red social integrada de la unidad&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como habitante de la unidad&lt;br&gt;Quiero tener un portal en donde pueda interactuar con los demás propietarios e inquilinos&lt;br&gt;Para tener una oportunidad de compartir y mejorar el ambiente social" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="KY7rtoQUxeBR3fSWKeVi-40" vertex="1">
@@ -244,7 +244,7 @@
             <mxPoint x="241" y="28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-41" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-41" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="41" y="2480" width="242" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GmmOpCF_TdwQESO5ywc--14" value="15.&lt;b&gt;&amp;nbsp;Facturación digital&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como administrador de la unidad&amp;nbsp;&lt;br&gt;Quiero una interfaz que me facilite el recaudo de los pagos&amp;nbsp; y gestión financiera de los recursos de la unidad&amp;nbsp;&lt;br&gt;Para tener mas control y ser más eficiente" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KY7rtoQUxeBR3fSWKeVi-41" vertex="1">
@@ -256,7 +256,7 @@
             <mxPoint x="241" y="27" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-42" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-42" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="39" y="2640" width="241" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GmmOpCF_TdwQESO5ywc--15" value="16. &lt;b&gt;Gestión en pagos&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como administrador&amp;nbsp;&lt;br&gt;Quiero la notificación de los propietario o arrendatarios que no han pagado sus obligaciones&lt;br&gt;Para evitar conflictos y atrasos en los pagos de los usuarios y tener buena gestión." style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="KY7rtoQUxeBR3fSWKeVi-42" vertex="1">
@@ -268,7 +268,7 @@
             <mxPoint x="241" y="34.666666666666664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-43" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-43" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="40" y="2840" width="241" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GmmOpCF_TdwQESO5ywc--16" value="17.&lt;b&gt;Participar virtualmente en la asamblea&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como propietario o arrendatario&amp;nbsp;&lt;br&gt;Quiero poder votar y participar remotamente&amp;nbsp; en las asambleas &amp;nbsp;&lt;br&gt;Para poder participar en las decisiones que se tomen." style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="KY7rtoQUxeBR3fSWKeVi-43" vertex="1">
@@ -280,10 +280,10 @@
             <mxPoint x="241" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-44" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-44" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="60" y="3020" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-49" value="" style="group" vertex="1" connectable="0" parent="KY7rtoQUxeBR3fSWKeVi-44">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-49" value="" style="group" connectable="0" vertex="1" parent="KY7rtoQUxeBR3fSWKeVi-44">
           <mxGeometry x="-21" y="-20" width="241" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EFDIbAfgCz1s7sX5n9Mg-7" value="18. Grabar las asambleas&lt;br&gt;&lt;br&gt;Yo como administrador&amp;nbsp;&lt;br&gt;Quiero poder grabar y guardar en una interfaz&amp;nbsp; las asambleas presenciales para que las personas que no pudieron asistir puedan ver de qué se habló&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="KY7rtoQUxeBR3fSWKeVi-49">
@@ -323,7 +323,7 @@
           <mxGeometry x="650" y="1000" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJNXB6Iudmitxb3w2NpN-24" value="&lt;b style=&quot;text-align: left&quot;&gt;Tener seguridad en la unidad.&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1220" width="40" height="20" as="geometry" />
+          <mxGeometry x="660" y="1190" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EFDIbAfgCz1s7sX5n9Mg-11" value="20. Realizar solicitudes al administrador&lt;br&gt;&lt;br&gt;Yo como propietario o arrendatario&amp;nbsp;&lt;br&gt;Quiero poder realizar solicitudes al administrador fácilmente&lt;br&gt;Para expresar un problema o sugerencia&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="3320" width="240" height="120" as="geometry" />
