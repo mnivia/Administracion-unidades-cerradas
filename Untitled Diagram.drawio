@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T01:12:43.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ei9xHgMJw4hWWXBruCDy" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T01:13:14.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="K8TUy7YDwehFumOZT0XA" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="877" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,9 +345,6 @@
         </mxCell>
         <mxCell id="EBEcUCrjvQ0W8w1NF-q4-3" value="&lt;b&gt;Gestión de pagos&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="665" y="2210" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fJNXB6Iudmitxb3w2NpN-30" value="&lt;b style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); color: rgb(51, 51, 51); text-align: left;&quot;&gt;Red social integrada de la unidad&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="2210" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EBEcUCrjvQ0W8w1NF-q4-4" value="&lt;b&gt;Gestión de pagos&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="2530" width="120" height="20" as="geometry" />
