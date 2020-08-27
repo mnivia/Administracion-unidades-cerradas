@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T00:02:17.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="liAOqQoiEShUvN1maQiM" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T00:04:38.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="tAMmOYmu1FDPJzaGxew7" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
-    <mxGraphModel dx="1030" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,22 +100,22 @@
         <mxCell id="GmmOpCF_TdwQESO5ywc--16" value="16.&lt;br&gt;&lt;br&gt;Yo como propietario o arrendatario&amp;nbsp;&lt;br&gt;Quiero poder&amp;nbsp; &amp;nbsp;votar en las asambleas cuando no pueda asistir&lt;br&gt;Para tener una participación en las decisiones de la unidad" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="2620" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EFDIbAfgCz1s7sX5n9Mg-2" value="- El usuario al consultar esta información le debe de aparecer los informes contables que ha realizado el administrador periódicamente&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;Prioridad: 60&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="EFDIbAfgCz1s7sX5n9Mg-2" value="- El usuario al consultar esta información le debe de aparecer los informes contables que ha realizado el administrador periódicamente&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;Prioridad: 60&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="1960" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fJNXB6Iudmitxb3w2NpN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="2140" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EFDIbAfgCz1s7sX5n9Mg-3" value="- En la red social el habitante de la unidad puede ver eventos que tendrán lugar en la unidad&lt;br&gt;- En la red social los usuarios puede convocar y publicar clasificados" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="EFDIbAfgCz1s7sX5n9Mg-3" value="- En la red social el habitante de la unidad puede ver eventos que tendrán lugar en la unidad&lt;br&gt;- En la red social los usuarios puede convocar y publicar clasificados" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="2140" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fJNXB6Iudmitxb3w2NpN-2" value="- Al administra" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-2" value="- La interfaz le deberá dar acceso único al administrador a los estados contables de la unidad cerrada&lt;br&gt;- La interfaz le permitirá ver al administrador mensualmente quién falta por pagar y quienes están atrasados" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="2310" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fJNXB6Iudmitxb3w2NpN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="2460" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fJNXB6Iudmitxb3w2NpN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="2620" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
