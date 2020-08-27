@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T03:01:41.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="x23gnr78EGyNZHZLZWC1" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T03:02:01.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="2SlI-W74MDT9hCq9j4lH" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="1212" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,10 +187,10 @@
         <mxCell id="fJNXB6Iudmitxb3w2NpN-46" value="&lt;b&gt;2. Tener seguridad en la unidad.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Yo como habitante&lt;br&gt;&amp;nbsp;&lt;br&gt;Quiero que la unidad tenga una empresa de seguridad privada&lt;br&gt;&lt;br&gt;Para la protección de todos los usuarios que estén dentro de la unidad&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="39" y="200" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="fJNXB6Iudmitxb3w2NpN-49" value="" style="endArrow=none;html=1;entryX=0.007;entryY=0.185;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fJNXB6Iudmitxb3w2NpN-46">
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-49" value="" style="endArrow=none;html=1;entryX=0.007;entryY=0.185;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="283" y="230" as="sourcePoint" />
-            <mxPoint x="20" y="270" as="targetPoint" />
+            <mxPoint x="281" y="230" as="sourcePoint" />
+            <mxPoint x="38.680000000000064" y="229.60000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fJNXB6Iudmitxb3w2NpN-50" value="&lt;b&gt;3.&amp;nbsp; Conocer programación de zonas Comunes&lt;br&gt;&lt;/b&gt;&lt;br&gt;Yo como habitante de la unidad&lt;br&gt;&lt;br&gt;Quiero conocer los horarios de disponibilidad de las zonas comunes&lt;br&gt;&amp;nbsp;&lt;br&gt;Para programar adecuadamente&amp;nbsp; mis actividades&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
