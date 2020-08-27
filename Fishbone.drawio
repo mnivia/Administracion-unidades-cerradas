@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T18:46:33.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="jN7ULRK3M1j0D6KHTN4u" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T18:49:02.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="iSNEBWTPjXpm2zSHtICT" version="13.6.5" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
-    <mxGraphModel dx="1076" dy="165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1264" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,8 +63,8 @@
         </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-275" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="185" y="120" as="sourcePoint" />
-            <mxPoint x="35" y="120" as="targetPoint" />
+            <mxPoint x="177.5" y="105.58" as="sourcePoint" />
+            <mxPoint x="27.5" y="105.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jIHz90uwFfTIZoK4D9I4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="G1P_aBHV-7jrVRY7QvX3-276">
@@ -298,7 +298,7 @@
           <mxGeometry x="-110" y="160" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jIHz90uwFfTIZoK4D9I4-3" value="Mal definidas las funciones de los prestadores de servicios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="116" width="140" height="40" as="geometry" />
+          <mxGeometry x="43.75" y="116" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
