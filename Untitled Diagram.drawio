@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T01:00:13.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="NO6CWbCSW4oB_10egkap" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T01:00:50.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="MXk_5hRghjagnS_UDnnR" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="862" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="401" y="2840" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EFDIbAfgCz1s7sX5n9Mg-8" value="- La interfaz debe grabar y guardar en audio y video la asamblea&lt;br&gt;- El vídeo debe estar disponible para todos los miembros de la unidad&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;i&gt;Estimación: 3&lt;br&gt;Prioridad: 70&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Depende de: 18,19&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="3000" width="240" height="120" as="geometry" />
+          <mxGeometry x="401" y="3120" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KY7rtoQUxeBR3fSWKeVi-1" value="," style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="2870" width="20" height="20" as="geometry" />
@@ -281,10 +281,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KY7rtoQUxeBR3fSWKeVi-44" value="" style="group" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="43" y="3000" width="241" height="120" as="geometry" />
+          <mxGeometry x="60" y="3140" width="241" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EFDIbAfgCz1s7sX5n9Mg-7" value="18. Grabar las asambleas&lt;br&gt;&lt;br&gt;Yo como administrador&amp;nbsp;&lt;br&gt;Quiero poder grabar y guardar en una interfaz&amp;nbsp; las asambleas presenciales para que las personas que no pudieron asistir puedan ver de qué se habló&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-44" vertex="1">
-          <mxGeometry x="1" width="240" height="120" as="geometry" />
+          <mxGeometry x="-20" y="-20" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KY7rtoQUxeBR3fSWKeVi-21" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="KY7rtoQUxeBR3fSWKeVi-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
