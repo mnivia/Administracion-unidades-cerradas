@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T02:02:08.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="mFBZgOEb8bVJDLCPdUJ6" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T02:05:22.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Al-g0UJCUfLafw4my8JD" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
-    <mxGraphModel dx="877" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="619" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,21 +88,6 @@
             <mxPoint x="242" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-27" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="42" y="400" width="241" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-45" value="" style="group" connectable="0" vertex="1" parent="KY7rtoQUxeBR3fSWKeVi-27">
-          <mxGeometry width="241" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="svupegZ1BK7ZTZ6G6fqw-11" value="&lt;b&gt;&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3.&amp;nbsp; Conocer programación de zonas Comunes&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Yo como habitante de la unidad&lt;br&gt;&lt;br&gt;Quiero conocer los horarios de disponibilidad de las zonas comunes&lt;br&gt;&amp;nbsp;&lt;br&gt;Para programar adecuadamente&amp;nbsp; mis actividades&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-45" vertex="1">
-          <mxGeometry width="240" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-6" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="KY7rtoQUxeBR3fSWKeVi-45">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="40.00333333333333" as="sourcePoint" />
-            <mxPoint x="241" y="40.00333333333333" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KY7rtoQUxeBR3fSWKeVi-28" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="760" y="50" width="241" height="160" as="geometry" />
         </mxCell>
@@ -128,18 +113,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="33" as="sourcePoint" />
             <mxPoint x="240" y="33" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-31" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="40" y="600" width="241" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="svupegZ1BK7ZTZ6G6fqw-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;4.&amp;nbsp; &amp;nbsp;Realizar el control de la unidad&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;%&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%223.%26amp%3Bnbsp%3B%20Zonas%20Comunes%26lt%3Bbr%26gt%3BYo%20como%20habitante%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3BQuiero%20conocer%20los%20horarios%20de%20las%20zonas%20comunes%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3BPara%20programar%20mis%20actividades%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BlabelPosition%3Dcenter%3BverticalLabelPosition%3Dmiddle%3BverticalAlign%3Dtop%3BlabelBackgroundColor%3Dnone%3BlabelBorderColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%22360%22%20width%3D%22240%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Yo como administrador&lt;br&gt;&amp;nbsp;&lt;br&gt;Quiero contar con todos los medios tecnológicos necesarios&lt;br&gt;&lt;br&gt;Para poder realizar una buena gestión y administración&amp;nbsp; de la unidad." style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" parent="KY7rtoQUxeBR3fSWKeVi-31" vertex="1">
-          <mxGeometry x="1" width="240" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-7" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="KY7rtoQUxeBR3fSWKeVi-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="40" as="sourcePoint" />
-            <mxPoint x="241" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KY7rtoQUxeBR3fSWKeVi-32" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" connectable="0" vertex="1" parent="1">
@@ -344,6 +317,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="283" y="230" as="sourcePoint" />
             <mxPoint x="20" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-50" value="&lt;b&gt;3.&amp;nbsp; Conocer programación de zonas Comunes&lt;br&gt;&lt;/b&gt;&lt;br&gt;Yo como habitante de la unidad&lt;br&gt;&lt;br&gt;Quiero conocer los horarios de disponibilidad de las zonas comunes&lt;br&gt;&amp;nbsp;&lt;br&gt;Para programar adecuadamente&amp;nbsp; mis actividades&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="39" y="400" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-6" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="39" y="440.00333333333333" as="sourcePoint" />
+            <mxPoint x="280" y="440.00333333333333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-56" value="&lt;b&gt;4.&amp;nbsp; &amp;nbsp;Realizar el control de la unidad&lt;/b&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;%&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%223.%26amp%3Bnbsp%3B%20Zonas%20Comunes%26lt%3Bbr%26gt%3BYo%20como%20habitante%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3BQuiero%20conocer%20los%20horarios%20de%20las%20zonas%20comunes%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3BPara%20programar%20mis%20actividades%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BlabelPosition%3Dcenter%3BverticalLabelPosition%3Dmiddle%3BverticalAlign%3Dtop%3BlabelBackgroundColor%3Dnone%3BlabelBorderColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%22360%22%20width%3D%22240%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Yo como administrador&lt;br&gt;&amp;nbsp;&lt;br&gt;Quiero contar con todos los medios tecnológicos necesarios&lt;br&gt;&lt;br&gt;Para poder realizar una buena gestión y administración&amp;nbsp; de la unidad." style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="39.5" y="600" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-7" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38" y="640" as="sourcePoint" />
+            <mxPoint x="279" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
