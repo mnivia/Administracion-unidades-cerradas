@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T01:45:33.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="gB4Y33sDYXQjdiM2DYc0" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T01:47:18.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="pyNEatgp8S__b8zjM1k2" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="877" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
             <mxPoint x="241" y="25.666666666666664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFDIbAfgCz1s7sX5n9Mg-10" value="- La interfaz mostrará un balance de participación y asistencia de los miembros de la unidad&lt;br&gt;- La interfaz permitirá realizar las votaciones en tiempo real&lt;br&gt;-Las asambleas deben ser grabadas y guardadas en la interfaz&lt;br&gt;- El propietario puede realizar la votación virtualmente&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;i&gt;Estimación: 3&lt;br&gt;Prioridad: 60&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Depende de:&amp;nbsp;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="EFDIbAfgCz1s7sX5n9Mg-10" value="- La interfaz mostrará un balance de participación y asistencia de los miembros de la unidad&lt;br&gt;- La interfaz permitirá realizar las votaciones en tiempo real&lt;br&gt;-Las asambleas deben ser grabadas y guardadas en la interfaz&lt;br&gt;- El propietario puede realizar la votación virtualmente&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;i&gt;Estimación: 3&lt;br&gt;Prioridad: 60&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Depende de: 5&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="401" y="2870" width="240" height="190" as="geometry" />
         </mxCell>
         <mxCell id="fJNXB6Iudmitxb3w2NpN-7" value="&lt;b style=&quot;text-align: left&quot;&gt;Organizar asambleas&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -298,7 +298,7 @@
         <mxCell id="fJNXB6Iudmitxb3w2NpN-26" value="&lt;span style=&quot;text-align: left&quot;&gt;Realizar asambleas virtuales&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="730" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EFDIbAfgCz1s7sX5n9Mg-12" value="- El propietario o arrendatario pueden anexar imágenes o videos detallando la solicitud&lt;br&gt;&lt;br&gt;- El propietario puede llevar un historial de avance de su solicitud&lt;br&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Estimación: 3&lt;br&gt;Prioridad: 80&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Depende de: 20, 19, 4&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="EFDIbAfgCz1s7sX5n9Mg-12" value="- El propietario o arrendatario pueden anexar imágenes o videos detallando la solicitud&lt;br&gt;&lt;br&gt;- El propietario puede llevar un historial de avance de su solicitud&lt;br&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Estimación: 3&lt;br&gt;Prioridad: 80&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Depende de: 17, 18, 4&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="3120" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EFDIbAfgCz1s7sX5n9Mg-13" value="&lt;b&gt;19. Realizar reservaciones de espacios&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como habitante&amp;nbsp;&lt;br&gt;Quiero poder realizar reservaciones de zonas comunes de manera fácil y rápida&lt;br&gt;Para no tener inconvenientes con otros habitantes de la unidad" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
@@ -330,6 +330,9 @@
         </mxCell>
         <mxCell id="EBEcUCrjvQ0W8w1NF-q4-8" value="&lt;b&gt;Realizar &lt;br&gt;Asambleas&lt;br&gt;Virtuales&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="870" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fJNXB6Iudmitxb3w2NpN-39" value="&lt;b style=&quot;text-align: left&quot;&gt;Organizar asambleas&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="2940" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
