@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T01:22:38.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="pLaaM1gICEGjeB_xOeNu" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T01:22:44.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="q2hewt215o8k4NX81JWQ" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="1030" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,18 +122,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KY7rtoQUxeBR3fSWKeVi-30" value="" style="group;fillColor=#D4E1F5;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="19" width="230" height="140" as="geometry" />
+          <mxGeometry x="40" y="19" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KY7rtoQUxeBR3fSWKeVi-46" value="" style="group;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" connectable="0" parent="KY7rtoQUxeBR3fSWKeVi-30">
-          <mxGeometry width="230" height="140" as="geometry" />
+          <mxGeometry width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-1" value="&lt;b&gt;1. Tener reglamento interno&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como inquilino&lt;br&gt;&lt;br&gt;Quiero que se establezca un reglamento interno&lt;br&gt;&lt;br&gt;Para mejorar la convivencia en la unidad&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="KY7rtoQUxeBR3fSWKeVi-46" vertex="1">
-          <mxGeometry x="0.9543568464730291" width="229.04564315352698" height="140" as="geometry" />
+          <mxGeometry x="0.995850622406639" width="239.00414937759336" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KY7rtoQUxeBR3fSWKeVi-29" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="KY7rtoQUxeBR3fSWKeVi-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="33" as="sourcePoint" />
-            <mxPoint x="230" y="33" as="targetPoint" />
+            <mxPoint x="240" y="33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KY7rtoQUxeBR3fSWKeVi-31" value="" style="group" vertex="1" connectable="0" parent="1">
