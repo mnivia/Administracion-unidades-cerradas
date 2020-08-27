@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T01:19:24.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="oY6hlPX2f7n2BF9uAS3X" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T01:20:57.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="TXrQDbRUzF8I8YZn5pyX" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="862" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,10 +121,10 @@
             <mxPoint x="241" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-30" value="" style="group;strokeColor=#d6b656;fillColor=#FFF2CC;" connectable="0" vertex="1" parent="1">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-30" value="" style="group;fillColor=#D4E1F5;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="39" y="19" width="241" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="KY7rtoQUxeBR3fSWKeVi-46" value="" style="group" connectable="0" vertex="1" parent="KY7rtoQUxeBR3fSWKeVi-30">
+        <mxCell id="KY7rtoQUxeBR3fSWKeVi-46" value="" style="group;strokeColor=#d79b00;fillColor=#ffe6cc;" connectable="0" vertex="1" parent="KY7rtoQUxeBR3fSWKeVi-30">
           <mxGeometry width="241" height="140" as="geometry" />
         </mxCell>
         <mxCell id="svupegZ1BK7ZTZ6G6fqw-1" value="&lt;b&gt;1. Tener reglamento interno&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como inquilino&lt;br&gt;&lt;br&gt;Quiero que se establezca un reglamento interno&lt;br&gt;&lt;br&gt;Para mejorar la convivencia en la unidad&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="KY7rtoQUxeBR3fSWKeVi-46" vertex="1">
