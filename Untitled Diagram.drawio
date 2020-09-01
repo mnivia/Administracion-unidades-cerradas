@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T19:21:45.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="jq55wihsbDnA1btvzdYP" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T19:23:51.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="zeL1ENLApQ7tw_0Jy9oj" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="845" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
           <mxGeometry x="850" y="730" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EFDIbAfgCz1s7sX5n9Mg-12" value="- El propietario o arrendatario pueden anexar imágenes o videos detallando la solicitud&lt;br&gt;&lt;br&gt;- El propietario puede llevar un historial de avance de su solicitud&lt;br&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Estimación: 3&lt;br&gt;Prioridad: 80&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Depende de: 17, 18, 4&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="400" y="2480" width="240" height="120" as="geometry" />
+          <mxGeometry x="403.5" y="2480" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EFDIbAfgCz1s7sX5n9Mg-13" value="&lt;b&gt;16. Realizar reservaciones de espacios&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como habitante&amp;nbsp;&lt;br&gt;Quiero poder realizar reservaciones de zonas comunes de manera fácil y rápida&lt;br&gt;Para no tener inconvenientes con otros habitantes de la unidad" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="42.5" y="2640" width="240" height="120" as="geometry" />
@@ -336,6 +336,9 @@
         </mxCell>
         <mxCell id="7NJHNmtAXNmNy0Shq5GE-3" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;5. Comunicar &lt;/b&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;información&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Yo como administrador&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Quiero insertar información&amp;nbsp;relevante&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Para poder comunicarme con los habitantes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="910" y="800" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7NJHNmtAXNmNy0Shq5GE-4" value="&lt;b&gt;17.&amp;nbsp;Facturación digital&lt;/b&gt;&lt;br&gt;&lt;br&gt;Yo como administrador&lt;br&gt;Quiero consultar el recaudo de los pagos&amp;nbsp; y gestión financiera de los recursos de la unidad&amp;nbsp;&lt;br&gt;Para tener mas control y ser más eficiente" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2798" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
