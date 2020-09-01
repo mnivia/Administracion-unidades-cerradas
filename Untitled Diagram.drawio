@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T19:23:51.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="zeL1ENLApQ7tw_0Jy9oj" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T19:26:31.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="yhchqGnvVgWjQv5x2AFF" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="845" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
           <mxGeometry x="665" y="2210" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EBEcUCrjvQ0W8w1NF-q4-4" value="&lt;b&gt;Gestión de pagos&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="685" y="3028" width="120" height="20" as="geometry" />
+          <mxGeometry x="650" y="3090" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EBEcUCrjvQ0W8w1NF-q4-5" value="&lt;b&gt;Realizar &lt;br&gt;asambleas &lt;br&gt;virtuales&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="2590" width="130" height="30" as="geometry" />
