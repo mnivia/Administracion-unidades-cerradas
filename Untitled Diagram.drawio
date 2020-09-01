@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T16:32:54.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="fAg7u92nX9QaAeUIwDTS" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T19:00:32.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="U79L1OyKaGMRYkbaAp1M" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
-    <mxGraphModel dx="1212" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,6 +327,12 @@
             <mxPoint x="38.5" y="60.003333333333444" as="sourcePoint" />
             <mxPoint x="279.5" y="60.003333333333444" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7NJHNmtAXNmNy0Shq5GE-1" value="&lt;b&gt;1. Tener reglamento interno&lt;/b&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;%&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%223.%26amp%3Bnbsp%3B%20Zonas%20Comunes%26lt%3Bbr%26gt%3BYo%20como%20habitante%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3BQuiero%20conocer%20los%20horarios%20de%20las%20zonas%20comunes%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3BPara%20programar%20mis%20actividades%26amp%3Bnbsp%3B%26lt%3Bbr%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BlabelPosition%3Dcenter%3BverticalLabelPosition%3Dmiddle%3BverticalAlign%3Dtop%3BlabelBackgroundColor%3Dnone%3BlabelBorderColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%22360%22%20width%3D%22240%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/span&gt;&lt;br&gt;Yo como inquilino&lt;br&gt;&lt;br&gt;Quiero consultar el&amp;nbsp; reglamento interno&lt;br&gt;&lt;br&gt;Para mejorar la convivencia en la unidad" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="770" y="40" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7NJHNmtAXNmNy0Shq5GE-2" value="&lt;b&gt;2. Tener seguridad en la unidad.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Yo como habitante&lt;br&gt;&amp;nbsp;&lt;br&gt;Quiero hacer parte de la elección de la de seguridad privada&lt;br&gt;&lt;br&gt;Para que sea un proceso transparente&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="770" y="200" width="240" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
