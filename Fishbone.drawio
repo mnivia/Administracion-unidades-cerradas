@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T02:52:47.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="2-d8BpkAnGQy0OFXmUkv" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T18:50:46.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="utnncrPAkigIHjk6rhRy" version="13.6.5" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
-    <mxGraphModel dx="1715" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
             <mxPoint x="27.5" y="105.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jIHz90uwFfTIZoK4D9I4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="G1P_aBHV-7jrVRY7QvX3-276">
+        <mxCell id="jIHz90uwFfTIZoK4D9I4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="G1P_aBHV-7jrVRY7QvX3-276" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="140" as="targetPoint" />
             <Array as="points">
@@ -108,7 +108,7 @@
             <mxPoint x="60" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-284" value="" style="endArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="G1P_aBHV-7jrVRY7QvX3-280">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-284" value="" style="endArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="G1P_aBHV-7jrVRY7QvX3-280" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="555" y="349" as="sourcePoint" />
             <mxPoint x="415" y="349" as="targetPoint" />
@@ -249,7 +249,7 @@
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-332" value="Mala conducta de los habitantes de la unidad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-335" value="Falta de un reglamento interno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-335" value="Desconocimiento del reglamento interno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-300" y="96" width="144" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-336" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -258,7 +258,7 @@
             <mxPoint x="-255" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-337" value="No pago o atraso de las obligaciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="G1P_aBHV-7jrVRY7QvX3-337" value="Atraso en las obligaciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-240" y="158" width="107" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-339" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -297,7 +297,7 @@
         <mxCell id="2Xea4KblU3T6z3b3Pr3L-4" value="Cada habitante sea responsable de sus mascotas&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-110" y="160" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jIHz90uwFfTIZoK4D9I4-3" value="Mal definidas las funciones de los prestadores de servicios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jIHz90uwFfTIZoK4D9I4-3" value="Mal definidas las funciones de los prestadores de servicios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="43.75" y="116" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
