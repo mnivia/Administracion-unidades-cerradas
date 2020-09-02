@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T18:11:50.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="716WmHDddeDQrDPggWNS" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T18:14:20.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ly_GKnI1jY3XXvlWTvyv" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="845" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,10 +164,10 @@
           <mxGeometry x="650" y="3090" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EBEcUCrjvQ0W8w1NF-q4-5" value="&lt;b&gt;Realizar &lt;br&gt;asambleas &lt;br&gt;virtuales&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="2590" width="130" height="30" as="geometry" />
+          <mxGeometry x="560" y="2600" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EBEcUCrjvQ0W8w1NF-q4-6" value="&lt;b&gt;Realizar el&lt;br&gt;Control de&amp;nbsp;&lt;br&gt;la&amp;nbsp;&lt;br&gt;Unidad&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="827" y="2600" width="80" height="60" as="geometry" />
+          <mxGeometry x="650" y="2590" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EBEcUCrjvQ0W8w1NF-q4-7" value="&lt;b&gt;Red Social&lt;br&gt;Integrada de&lt;br&gt;la Unidad&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="870" width="90" height="50" as="geometry" />
@@ -387,6 +387,9 @@
             <mxPoint y="28" as="sourcePoint" />
             <mxPoint x="241" y="28" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7NJHNmtAXNmNy0Shq5GE-22" value="-La plataforma le permitira&amp;nbsp; al habitante anexar imágenes o vídeos detallando la solicitud&lt;br&gt;- La plataforma le mostrara un historial de avance de su solicitud&lt;br&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Estimación: 3&lt;br&gt;Prioridad: 80&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Depende de: 17, 18, 4&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="980" y="2480" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
