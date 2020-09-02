@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T17:47:19.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="5RT5lYqKjI6L0t7imjD4" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T17:51:26.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Mq_1NOKF37N5xC9yqCpD" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="845" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,6 +354,9 @@
         </mxCell>
         <mxCell id="7NJHNmtAXNmNy0Shq5GE-11" value="-El sistema de permitirá el registro de los procesos principales .&lt;br&gt;-El sistema debe mostrar el balance presupuestal de la unidad periódicamente.&lt;br&gt;- El sistema debe mostrar los contratos y las inversiones que se realizan en la unidad periódicamente.&lt;br&gt;&lt;br&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Estimación&amp;nbsp;5&lt;br&gt;Prioridad: 95&amp;nbsp; &amp;nbsp; &amp;nbsp;Depende de 4,12&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1200" y="600" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7NJHNmtAXNmNy0Shq5GE-12" value="-La plataforma debe indicar el lugar y la hora de la asamblea.&lt;br&gt;-La ubicación de este anuncio debe ser en la interfaz principal de la plataforma&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Estimación 3&amp;nbsp;&lt;br&gt;&lt;i&gt;Prioridad: 80&amp;nbsp; &amp;nbsp; Depende de 5,7,14,19&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="800" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
