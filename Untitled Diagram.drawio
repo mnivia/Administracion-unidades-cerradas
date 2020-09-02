@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T18:20:38.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="qQENrIuXrmPJ8LwXxW54" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T18:24:23.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="aLedEGO8YaAtS8QhO__4" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="1408" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
           <mxGeometry x="665" y="2210" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EBEcUCrjvQ0W8w1NF-q4-4" value="&lt;b&gt;Gestión de pagos&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="3090" width="120" height="20" as="geometry" />
+          <mxGeometry x="620" y="3118" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EBEcUCrjvQ0W8w1NF-q4-5" value="&lt;b&gt;Realizar &lt;br&gt;asambleas &lt;br&gt;virtuales&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="2600" width="130" height="30" as="geometry" />
@@ -176,7 +176,7 @@
           <mxGeometry x="830" y="870" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fJNXB6Iudmitxb3w2NpN-39" value="&lt;b style=&quot;text-align: left&quot;&gt;Organizar asambleas&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="680" y="3300" width="40" height="20" as="geometry" />
+          <mxGeometry x="643.5" y="3320" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fJNXB6Iudmitxb3w2NpN-46" value="&lt;b&gt;2. Tener seguridad en la unidad.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Yo como habitante&lt;br&gt;&amp;nbsp;&lt;br&gt;Quiero que la unidad tenga una empresa de seguridad privada&lt;br&gt;&lt;br&gt;Para la protección de todos los usuarios que estén dentro de la unidad&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="39" y="200" width="240" height="160" as="geometry" />
