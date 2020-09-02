@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T19:53:39.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="N2NLOHbpyBgzmGf7fyLd" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T19:53:53.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="IqIQbW7-p8XuLbvsh-G2" version="13.6.5" type="github">
   <diagram id="JqKcGQJoDCqcwupZXbkY" name="Page-1">
     <mxGraphModel dx="846" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DWUB2Uf6saMLc5BY2L6b-1" value="Admnistrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="180" width="30" height="60" as="geometry" />
+          <mxGeometry x="770" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DWUB2Uf6saMLc5BY2L6b-2" value="Propietario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="10" width="30" height="60" as="geometry" />
