@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T18:17:40.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="WlGPKL8M_ZXtS1qJdzC8" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T18:20:38.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="qQENrIuXrmPJ8LwXxW54" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
-    <mxGraphModel dx="845" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -390,6 +390,12 @@
         </mxCell>
         <mxCell id="7NJHNmtAXNmNy0Shq5GE-22" value="-La plataforma le permitira&amp;nbsp; al habitante anexar imágenes o vídeos detallando la solicitud&lt;br&gt;-La plataforma le permitira al habitante recibir una respuesta por parte del administrador.&lt;br&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Estimación: 3&lt;br&gt;Prioridad: 80&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Depende de: 17, 18, 4&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="990" y="2480" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7NJHNmtAXNmNy0Shq5GE-23" value="&lt;b&gt;3.&amp;nbsp; Conocer programación de zonas Comunes&lt;br&gt;&lt;/b&gt;&lt;br&gt;Yo como habitante de la unidad&lt;br&gt;&lt;br&gt;Quiero consultar los horarios de disponibilidad de las zonas comunes&lt;br&gt;&amp;nbsp;&lt;br&gt;Para programar adecuadamente&amp;nbsp; mis actividades&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="730" y="2610" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7NJHNmtAXNmNy0Shq5GE-24" value="&lt;h1&gt;Repetida&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="2670" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
