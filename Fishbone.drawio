@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T18:51:09.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="iIlq9FVyJNcmYcQPqoSc" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T18:57:21.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="H2DtG-HNPBUenBG9X6G3" version="13.6.5" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
     <mxGraphModel dx="1592" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -183,22 +183,10 @@
             <mxPoint x="-213" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-307" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-91" y="329" as="sourcePoint" />
-            <mxPoint x="-271" y="329" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-308" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-127" y="390" as="sourcePoint" />
-            <mxPoint x="-307" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-309" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-162" y="449" as="sourcePoint" />
-            <mxPoint x="-342" y="449" as="targetPoint" />
+            <mxPoint x="-115" y="360" as="sourcePoint" />
+            <mxPoint x="-295" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-311" value="Falta de participación en las decisiones&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -207,14 +195,8 @@
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-313" value="Precaria o ausente seguridad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-333" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-314" value="No hay&amp;nbsp; cámaras de seguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="426" width="230" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-316" value="Falta de control de registro de visitantes&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="365" width="210" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-317" value="Falta de contratacion de personal de seguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="306" width="140" height="20" as="geometry" />
+          <mxGeometry x="-310" y="330" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-318" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -226,16 +208,7 @@
           <mxGeometry x="369" y="116" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-325" value="No hay horarios establecidos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="429" width="150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-326" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="515" y="405" as="sourcePoint" />
-            <mxPoint x="694" y="404.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-327" value="Falta de personal&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="380" width="120" height="20" as="geometry" />
+          <mxGeometry x="523" y="370" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-328" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -284,12 +257,21 @@
         </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-345" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="482" y="452" as="sourcePoint" />
-            <mxPoint x="652" y="452" as="targetPoint" />
+            <mxPoint x="519" y="399" as="sourcePoint" />
+            <mxPoint x="689" y="399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jIHz90uwFfTIZoK4D9I4-3" value="Mal definidas las funciones de los prestadores de servicios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="43.75" y="116" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="owZcJXpeHgy4OeewPuPZ-1" value="No se existen los medios para comunicar anormalidades" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="390" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="owZcJXpeHgy4OeewPuPZ-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="413.5" as="sourcePoint" />
+            <mxPoint x="-320" y="413.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
