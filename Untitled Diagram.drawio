@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T17:51:26.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Mq_1NOKF37N5xC9yqCpD" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T17:55:12.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="BGAk0Ovk5s4lbsWGejEC" version="13.6.5" type="github">
   <diagram id="wNBqWbaNxDe87QmoSqn4" name="Page-1">
     <mxGraphModel dx="845" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -357,6 +357,12 @@
         </mxCell>
         <mxCell id="7NJHNmtAXNmNy0Shq5GE-12" value="-La plataforma debe indicar el lugar y la hora de la asamblea.&lt;br&gt;-La ubicación de este anuncio debe ser en la interfaz principal de la plataforma&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Estimación 3&amp;nbsp;&lt;br&gt;&lt;i&gt;Prioridad: 80&amp;nbsp; &amp;nbsp; Depende de 5,7,14,19&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1200" y="800" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7NJHNmtAXNmNy0Shq5GE-13" value="&lt;b&gt;7.&amp;nbsp; Notificar daños en las instalaciones&lt;br&gt;&lt;/b&gt;&lt;br&gt;Yo como empleado o habitante&amp;nbsp;&amp;nbsp;&lt;br&gt;Quiero poder comunicar los daños en la unidad a la administración&lt;br&gt;Para que todos los habitantes estén al tanto de la disponibilidad de las instalaciones&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1120" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7NJHNmtAXNmNy0Shq5GE-14" value="- La plataforma pedirá los datos de donde esta&amp;nbsp; y la naturaleza del daño.&amp;nbsp;&lt;br&gt;&lt;br&gt;- La información debe ser publicada a todos los miembros de la unidad&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Estimación 2&lt;br&gt;&lt;i&gt;Prioridad: 60&amp;nbsp; &amp;nbsp; Depende de 7,14&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1120" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
