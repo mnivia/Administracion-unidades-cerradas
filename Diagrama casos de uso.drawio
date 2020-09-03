@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T00:21:18.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="_d81hMjf_O_WuHirlBwt" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-03T00:21:44.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="xhC_z9f0o6bpFmDtI-Tx" version="13.6.5" type="github">
   <diagram id="JqKcGQJoDCqcwupZXbkY" name="Page-1">
     <mxGraphModel dx="1588" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DWUB2Uf6saMLc5BY2L6b-34" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="DWUB2Uf6saMLc5BY2L6b-33">
+        <mxCell id="DWUB2Uf6saMLc5BY2L6b-34" value="&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="DWUB2Uf6saMLc5BY2L6b-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DWUB2Uf6saMLc5BY2L6b-35" value="Acceder a la plataforma&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
