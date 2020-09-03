@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T01:14:53.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ydpxIG8LK0xCmjr6D8Ex" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-03T01:41:05.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="yaHF7XJLjMGVDaZ_Gemx" version="13.6.5" type="github">
   <diagram id="JqKcGQJoDCqcwupZXbkY" name="Page-1">
     <mxGraphModel dx="1993" dy="1794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DWUB2Uf6saMLc5BY2L6b-1" value="Admnistrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-90" width="30" height="60" as="geometry" />
+          <mxGeometry x="100" y="-95" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DWUB2Uf6saMLc5BY2L6b-2" value="Propietario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="10" width="30" height="60" as="geometry" />
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DWUB2Uf6saMLc5BY2L6b-20" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DWUB2Uf6saMLc5BY2L6b-1" target="DWUB2Uf6saMLc5BY2L6b-14">
+        <mxCell id="DWUB2Uf6saMLc5BY2L6b-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DWUB2Uf6saMLc5BY2L6b-1" target="DWUB2Uf6saMLc5BY2L6b-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="210.00000000000023" as="sourcePoint" />
             <mxPoint x="500" y="20" as="targetPoint" />
