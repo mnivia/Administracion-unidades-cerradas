@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T22:29:35.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="qEmexU4Bt5E2h4lFwtTC" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T22:30:18.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="rg28zIlnGrwjY04HEFhF" version="13.6.6" type="github">
   <diagram id="JqKcGQJoDCqcwupZXbkY" name="Page-1">
     <mxGraphModel dx="2249" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -572,7 +572,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0xDbNC47fGg1-5seRC9q-133" value="Escoger zona comun" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="215" width="90" height="50" as="geometry" />
+          <mxGeometry x="2040" y="210" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0xDbNC47fGg1-5seRC9q-134" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0xDbNC47fGg1-5seRC9q-121" target="0xDbNC47fGg1-5seRC9q-133">
           <mxGeometry relative="1" as="geometry">
