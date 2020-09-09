@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T13:59:22.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Wj7Aq7QJM9KpXY9LSoA7" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T14:46:23.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Ybt2sv9gaTtyP3rEB1s2" version="13.6.6" type="github">
   <diagram id="JqKcGQJoDCqcwupZXbkY" name="Page-1">
     <mxGraphModel dx="2489" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -348,7 +348,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0xDbNC47fGg1-5seRC9q-33" value="Escoger tipo de usuario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="-107.5" width="70" height="67.5" as="geometry" />
+          <mxGeometry x="1690" y="-107.5" width="70" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="0xDbNC47fGg1-5seRC9q-34" value="Introducir datos de usuario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1790" y="-16.25" width="90" height="60" as="geometry" />
