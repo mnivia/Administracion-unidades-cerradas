@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T00:43:11.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="4MiFmw_ry5dAHCC2Kz6q" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T00:47:06.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="3W_26rHihslwS-Ks3lW-" version="13.6.6" type="github">
   <diagram id="AtlF3DiGu45CcL0kuLVt" name="Page-1">
     <mxGraphModel dx="2863" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="bjxUz_0HNQe92oVdcdLu-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;req&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;interfaz de administracion_Requerimientos&lt;/span&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=230;height=50;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="20" width="2330" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="bjxUz_0HNQe92oVdcdLu-3" value="id=&quot;R1.1&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="bjxUz_0HNQe92oVdcdLu-3" value="&lt;br&gt;id=&quot;R1.1&quot;&lt;br&gt;Todo usuario debe proporcionar la información de registro necesaria para poder acceder a la plataforma segun su rol en la plataforma." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-640" y="240" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bjxUz_0HNQe92oVdcdLu-4" value="" style="endArrow=none;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="bjxUz_0HNQe92oVdcdLu-3" target="bjxUz_0HNQe92oVdcdLu-3">
@@ -208,7 +208,7 @@
             <mxPoint x="-890" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bjxUz_0HNQe92oVdcdLu-61" value="id=&quot;R3&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="bjxUz_0HNQe92oVdcdLu-61" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;id=&quot;R3&quot;&lt;br&gt;Se debe permitir al usuario consultar información de su interés dependiendo de su respectivo rol en la plataforma" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="120" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="bjxUz_0HNQe92oVdcdLu-63" value="" style="endArrow=none;html=1;exitX=-0.007;exitY=0.344;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bjxUz_0HNQe92oVdcdLu-61" target="bjxUz_0HNQe92oVdcdLu-61">
