@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T18:53:00.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="0Cet7-kMrhLfvl_XK1k_" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T18:53:22.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="awHrDZsIFukCsPBgAh_M" version="13.7.1" type="github">
   <diagram id="Ox0HX99h4_NLodM2yg5e" name="Page-1">
     <mxGraphModel dx="1857" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="MIDrqxdRuolQN3XNTHgx-23" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="170" y="150" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MIDrqxdRuolQN3XNTHgx-19" value="Administrador solicita asamblea" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0D0D0D;fillColor=#FFFFFF;" parent="MIDrqxdRuolQN3XNTHgx-23" vertex="1">
+        <mxCell id="MIDrqxdRuolQN3XNTHgx-19" value="Administrador convoca asamblea" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0D0D0D;fillColor=#FFFFFF;" parent="MIDrqxdRuolQN3XNTHgx-23" vertex="1">
           <mxGeometry width="103.65448504983388" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MIDrqxdRuolQN3XNTHgx-22" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0D0D0D;fillColor=#FFFFFF;rotation=-90;" parent="MIDrqxdRuolQN3XNTHgx-23" vertex="1">
