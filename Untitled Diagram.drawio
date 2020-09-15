@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T18:42:19.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="akqmuTDbVnqA-gAPQq54" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T18:43:13.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4Qla81jJnUWCFZvOgZOR" version="13.6.9" type="github">
   <diagram id="Ox0HX99h4_NLodM2yg5e" name="Page-1">
     <mxGraphModel dx="2014" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="MIDrqxdRuolQN3XNTHgx-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MIDrqxdRuolQN3XNTHgx-10" value="&lt;h4&gt;&lt;b&gt;act&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 15px ; text-align: left&quot;&gt;interfaz de administracion_Actividades&lt;/span&gt;&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="30" width="310" height="20" as="geometry" />
+        <mxCell id="MIDrqxdRuolQN3XNTHgx-10" value="&lt;h2&gt;act&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 15px ; text-align: left&quot;&gt;interfaz de administracion_Actividades&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MIDrqxdRuolQN3XNTHgx-12" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;" vertex="1" parent="1">
           <mxGeometry x="369" y="410" width="44" height="40" as="geometry" />
