@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T05:14:13.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="wPrZpiA3z3e8yh3IJE5o" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T16:57:13.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="G43YXWVDmXg6ob21RdI2" version="13.7.1" type="github">
   <diagram id="TB5ak_UITo0y_XOYZYg2" name="Page-1">
     <mxGraphModel dx="1102" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,6 +236,9 @@
         </mxCell>
         <mxCell id="JngkvSNVzOZS0ROYlZkc-86" value="When(El administrador realiza la contestacion)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="JngkvSNVzOZS0ROYlZkc-85">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JngkvSNVzOZS0ROYlZkc-87" value="" style="rhombus;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="850" y="540" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
