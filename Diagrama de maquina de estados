@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T23:39:59.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="BwVTlF5Mgl4Z1G7mRwxy" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T23:48:13.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="TatIbTGP41r1vDQoIbGj" version="13.7.1" type="github">
   <diagram id="TB5ak_UITo0y_XOYZYg2" name="Page-1">
     <mxGraphModel dx="1296" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,6 +250,77 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8FBqwBicPn8zyy1Hs6fu-4" value="When(El sistema percibe la solicitud)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="8FBqwBicPn8zyy1Hs6fu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="-90" width="412" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="-85" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-7" value="&lt;h2&gt;&lt;b&gt;stm&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;interfaz de administración_Asamblea&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2051" y="-75" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-8" value="" style="ellipse;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;fillColor=#000000;strokeColor=#0D0D0D;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8FBqwBicPn8zyy1Hs6fu-8" target="8FBqwBicPn8zyy1Hs6fu-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2450" y="225" as="sourcePoint" />
+            <mxPoint x="2500" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-10" value="Creada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-11" value="Enviada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8FBqwBicPn8zyy1Hs6fu-10" target="8FBqwBicPn8zyy1Hs6fu-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2420" y="195" as="sourcePoint" />
+            <mxPoint x="2520" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-13" value="When(El administrador&amp;nbsp; comunica a los habitantes)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="8FBqwBicPn8zyy1Hs6fu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-14" value="Confirmada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-15" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;" vertex="1" parent="1">
+          <mxGeometry x="2178" y="605" width="44" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8FBqwBicPn8zyy1Hs6fu-11" target="8FBqwBicPn8zyy1Hs6fu-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2420" y="315" as="sourcePoint" />
+            <mxPoint x="2520" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-17" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;When(Los habitantes&amp;nbsp; responden al envió&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;)&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="8FBqwBicPn8zyy1Hs6fu-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8FBqwBicPn8zyy1Hs6fu-19" target="8FBqwBicPn8zyy1Hs6fu-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2150" y="365" as="sourcePoint" />
+            <mxPoint x="2198" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-19" value="Realizada" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-20" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8FBqwBicPn8zyy1Hs6fu-14" target="8FBqwBicPn8zyy1Hs6fu-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2112" y="455" as="sourcePoint" />
+            <mxPoint x="2212" y="455" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2200" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-21" value="When(Los habitantes se retiran de la reunion)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="8FBqwBicPn8zyy1Hs6fu-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
