@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T19:02:18.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="3pSVsAv63uj_wBX1jWKX" version="13.7.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-17T19:05:14.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="0HdP23qM7f35SEIL9DEH" version="13.7.2" type="github" pages="5">
   <diagram id="IByfszgsPYmH7Z33qqJC" name="sd Reserva">
-    <mxGraphModel dx="1102" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
           <mxGeometry x="530" y="110" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T3ICBT90jM9kPvNU83P--3" value="&lt;b&gt;sd&lt;/b&gt; UnidadCerrada_Secuencia_Asamblea" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=30;" vertex="1" parent="1">
-          <mxGeometry x="955" y="1210" width="580" height="540" as="geometry" />
+          <mxGeometry x="790" y="50" width="840" height="860" as="geometry" />
         </mxCell>
         <mxCell id="T3ICBT90jM9kPvNU83P--4" value=":Administrador" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="955" y="120" width="145" height="30" as="geometry" />
@@ -187,6 +187,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="843" y="679" as="sourcePoint" />
             <mxPoint x="1350" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3ICBT90jM9kPvNU83P--39" value="1.6 Inicio a la asamblea" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;exitX=1.125;exitY=0.941;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="T3ICBT90jM9kPvNU83P--6">
+          <mxGeometry x="-0.0843" y="5" width="160" relative="1" as="geometry">
+            <mxPoint x="1310" y="541" as="sourcePoint" />
+            <mxPoint x="1507" y="843" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
