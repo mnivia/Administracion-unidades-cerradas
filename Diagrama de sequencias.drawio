@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T18:18:04.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.7.2" etag="p3qtJcpUoIb6E2tOPPJa" type="github"><diagram id="IByfszgsPYmH7Z33qqJC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-17T18:20:27.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="dXkc-MDzj6sPu93n59eS" version="13.7.3" type="github">
+  <diagram id="IByfszgsPYmH7Z33qqJC" name="sd Compra">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-1" value="sd UnidadCerrada_SecuenciaReserva" style="shape=umlFrame;whiteSpace=wrap;html=1;width=220;height=30;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="580" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-2" value=":Arrendatario" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-3" value=":Administrador" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-4" value="" style="shape=rect;fillColor=#eeeeee;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-5" value="" style="edgeStyle=none;dashed=1;endArrow=none;html=1;" edge="1" parent="1" source="ECuL-u9GCJVW1QL4CKRL-2" target="ECuL-u9GCJVW1QL4CKRL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-6" value="1. Solicita Reserva" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=0;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.2;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ECuL-u9GCJVW1QL4CKRL-4" target="ECuL-u9GCJVW1QL4CKRL-7">
+          <mxGeometry x="-0.0843" y="5" width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="240" as="sourcePoint" />
+            <mxPoint x="420" y="240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-7" value="" style="shape=rect;fillColor=#eeeeee;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-8" value="" style="edgeStyle=none;dashed=1;endArrow=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuL-u9GCJVW1QL4CKRL-3" target="ECuL-u9GCJVW1QL4CKRL-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="150" as="sourcePoint" />
+            <mxPoint x="439" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-9" value="4. Confirma Reserva" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="ECuL-u9GCJVW1QL4CKRL-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="425" y="283" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-10" value="Disponible: Reserva" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-11" value="" style="shape=rect;fillColor=#eeeeee;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-12" value="" style="edgeStyle=none;dashed=1;endArrow=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECuL-u9GCJVW1QL4CKRL-10" target="ECuL-u9GCJVW1QL4CKRL-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406" y="150" as="sourcePoint" />
+            <mxPoint x="585" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-13" value="2. Consultar Disponibilidad" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=-0.1;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ECuL-u9GCJVW1QL4CKRL-11">
+          <mxGeometry x="-0.0769" width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="224.5" as="sourcePoint" />
+            <mxPoint x="580" y="224.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECuL-u9GCJVW1QL4CKRL-14" value="3. Confirma disponibilidad" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=0.95;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.2;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ECuL-u9GCJVW1QL4CKRL-11" target="ECuL-u9GCJVW1QL4CKRL-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="220" as="sourcePoint" />
+            <mxPoint x="660" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
