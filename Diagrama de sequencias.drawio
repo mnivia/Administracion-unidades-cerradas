@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T19:56:59.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="COlxicBsmN6VGPuw0pbl" version="13.7.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-17T20:03:36.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="TwIvClOp62F1CAGs5qXD" version="13.7.2" type="github" pages="5">
   <diagram id="IByfszgsPYmH7Z33qqJC" name="sd Reserva">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
         <mxCell id="178sv82tuhjsQiMv21EE-6" value=":Usuario" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="1945" y="135" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="178sv82tuhjsQiMv21EE-7" value=":Interfaz" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="178sv82tuhjsQiMv21EE-7" value=":Programa" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="2240" y="135" width="132" height="30" as="geometry" />
         </mxCell>
         <mxCell id="178sv82tuhjsQiMv21EE-8" value="" style="shape=rect;html=1;" vertex="1" parent="1">
