@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T19:19:14.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="H1BxD2J0ovoTiVV7Aaqd" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T20:05:41.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="kinUU3unrtj2ZvQqd5Mm" version="13.7.3" type="github">
   <diagram id="AtlF3DiGu45CcL0kuLVt" name="Page-1">
     <mxGraphModel dx="2762" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="bjxUz_0HNQe92oVdcdLu-32" value="&lt;b&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;Reporte&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="250" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bjxUz_0HNQe92oVdcdLu-33" value="&lt;b&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;Gestion de informacion&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bjxUz_0HNQe92oVdcdLu-33" value="&lt;b&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;Gestión de información&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bjxUz_0HNQe92oVdcdLu-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" parent="1" vertex="1">
