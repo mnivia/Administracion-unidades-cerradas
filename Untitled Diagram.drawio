@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T16:13:35.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="hkqSU6fMzqrsxmB8cMtb" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T16:13:53.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="BET1fhKGkwifVLeunpsc" version="13.7.2" type="github">
   <diagram id="Ox0HX99h4_NLodM2yg5e" name="Page-1">
     <mxGraphModel dx="1929" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -188,7 +188,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzrnelhRuTvgVpUSadEI-96" value="Notifica disponibilidad de horario" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0D0D0D;fillColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="820" width="110" height="50" as="geometry" />
+          <mxGeometry x="-40" y="820" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SzrnelhRuTvgVpUSadEI-97" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="150" y="820" width="145.25" height="50" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzrnelhRuTvgVpUSadEI-103" value="Hora, fecha y razon" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0D0D0D;fillColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="740" width="110" height="50" as="geometry" />
+          <mxGeometry x="-40" y="740" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SzrnelhRuTvgVpUSadEI-104" value="Notificación a invitados" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0D0D0D;fillColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="820" width="110" height="50" as="geometry" />
@@ -247,7 +247,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzrnelhRuTvgVpUSadEI-115" value="Notificación a invitados" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0D0D0D;fillColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="900" width="110" height="50" as="geometry" />
+          <mxGeometry x="-40" y="900" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SzrnelhRuTvgVpUSadEI-116" value="" style="group;fontStyle=1" parent="1" vertex="1" connectable="0">
           <mxGeometry x="150" y="900" width="145.25" height="50" as="geometry" />
