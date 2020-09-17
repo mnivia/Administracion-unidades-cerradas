@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T16:13:53.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="BET1fhKGkwifVLeunpsc" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T16:18:39.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="edBnhKE0U822i15bq40l" version="13.7.2" type="github">
   <diagram id="Ox0HX99h4_NLodM2yg5e" name="Page-1">
     <mxGraphModel dx="1929" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -338,7 +338,7 @@
         <mxCell id="SzrnelhRuTvgVpUSadEI-146" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-550" y="150" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SzrnelhRuTvgVpUSadEI-147" value="Inquilino quiere realizar solicitud al administrador" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0D0D0D;fillColor=#FFFFFF;" parent="SzrnelhRuTvgVpUSadEI-146" vertex="1">
+        <mxCell id="SzrnelhRuTvgVpUSadEI-147" value="Habitante quiere realizar solicitud al administrador" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0D0D0D;fillColor=#FFFFFF;" parent="SzrnelhRuTvgVpUSadEI-146" vertex="1">
           <mxGeometry width="103.65448504983388" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SzrnelhRuTvgVpUSadEI-148" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0D0D0D;fillColor=#FFFFFF;rotation=-90;" parent="SzrnelhRuTvgVpUSadEI-146" vertex="1">
