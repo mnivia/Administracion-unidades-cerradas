@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T19:21:20.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="R9B3hSKOCNh7shiPOWr0" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T20:47:35.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4S6sOCk_r2VkUMN6SW9i" version="13.7.2" type="github">
   <diagram id="TB5ak_UITo0y_XOYZYg2" name="Page-1">
     <mxGraphModel dx="2249" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="-120" y="-90" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JngkvSNVzOZS0ROYlZkc-3" value="&lt;h2 style=&quot;text-align: left&quot;&gt;&lt;b&gt;stm&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;interfaz de administración_Solicitud&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry y="-80" width="330" height="20" as="geometry" />
+          <mxGeometry x="-110" y="-90" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JngkvSNVzOZS0ROYlZkc-5" value="" style="ellipse;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;fillColor=#000000;strokeColor=#0D0D0D;" parent="1" vertex="1">
           <mxGeometry x="91" y="-20" width="40" height="40" as="geometry" />
