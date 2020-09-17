@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T01:22:21.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Uj3jIxxSUV1gLUxIxqYw" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T01:25:25.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="cgatk02RppmhcFxeUqjU" version="13.7.1" type="github">
   <diagram id="TB5ak_UITo0y_XOYZYg2" name="Page-1">
     <mxGraphModel dx="1296" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,7 +401,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8FBqwBicPn8zyy1Hs6fu-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3100" y="-1060" width="850" height="930" as="geometry" />
+          <mxGeometry x="3200" y="-70" width="1220" height="780" as="geometry" />
         </mxCell>
         <mxCell id="8FBqwBicPn8zyy1Hs6fu-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=60;arcSize=12;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="3200" y="-70" width="350" height="40" as="geometry" />
@@ -436,7 +436,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8FBqwBicPn8zyy1Hs6fu-53" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;" vertex="1" parent="1">
-          <mxGeometry x="3577" y="830" width="44" height="40" as="geometry" />
+          <mxGeometry x="4330" y="580" width="44" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8FBqwBicPn8zyy1Hs6fu-63" value="Ingresado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3760" y="280" width="120" height="60" as="geometry" />
@@ -453,9 +453,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8FBqwBicPn8zyy1Hs6fu-69" value="Respondido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3537" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="4100" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8FBqwBicPn8zyy1Hs6fu-70" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8FBqwBicPn8zyy1Hs6fu-69" target="8FBqwBicPn8zyy1Hs6fu-53">
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-70" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="8FBqwBicPn8zyy1Hs6fu-69" target="8FBqwBicPn8zyy1Hs6fu-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3530" y="500" as="sourcePoint" />
             <mxPoint x="3592" y="700" as="targetPoint" />
@@ -492,6 +492,17 @@
         </mxCell>
         <mxCell id="8FBqwBicPn8zyy1Hs6fu-78" value="When(El sistema estudia la petición)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="8FBqwBicPn8zyy1Hs6fu-77">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-79" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8FBqwBicPn8zyy1Hs6fu-76" target="8FBqwBicPn8zyy1Hs6fu-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3940" y="610" as="sourcePoint" />
+            <mxPoint x="4040" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-80" value="When(El sistema genera&lt;br&gt;&amp;nbsp;una contestación)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="8FBqwBicPn8zyy1Hs6fu-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-29" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
