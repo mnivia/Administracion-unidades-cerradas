@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T16:53:13.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="aV4UcpR9_2acLNKK4lGW" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T16:19:21.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9CfPEHiGRXz4HEoj6m6a" version="13.7.3" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
-    <mxGraphModel dx="1848" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1639" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,9 +138,6 @@
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-292" value="Falta de una infraestructura tecnológica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="410" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-293" value="Manejo inadecuado de los residuos sólidos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="310" width="140" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-294" value="Los registros de los propietarios y arrendatarios están en papel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="350" width="160" height="20" as="geometry" />
         </mxCell>
@@ -148,12 +145,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="381" as="sourcePoint" />
             <mxPoint x="40" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G1P_aBHV-7jrVRY7QvX3-296" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="556" y="345" as="sourcePoint" />
-            <mxPoint x="726" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G1P_aBHV-7jrVRY7QvX3-297" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
