@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T18:37:03.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="89Af_K45Er49BhkoLNlF" version="13.7.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-01T18:44:01.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="7wuaTgNI3hj_c7i2zi0J" version="13.7.7" type="github" pages="5">
   <diagram id="IByfszgsPYmH7Z33qqJC" name="sd Reserva">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="T3ICBT90jM9kPvNU83P--30" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="845" y="580" width="610" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="178sv82tuhjsQiMv21EE-21" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1852" y="380" width="610" height="320" as="geometry" />
         </mxCell>
@@ -165,9 +168,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T3ICBT90jM9kPvNU83P--30" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="845" y="580" width="610" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="T3ICBT90jM9kPvNU83P--31" value="1.4&amp;nbsp; Tipo de asistencia" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=1.025;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="T3ICBT90jM9kPvNU83P--6">
           <mxGeometry x="-0.0843" y="5" width="160" relative="1" as="geometry">
             <mxPoint x="1310" y="529" as="sourcePoint" />
@@ -182,10 +182,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T3ICBT90jM9kPvNU83P--33" value="1.5 Asistencia presencial" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;dashed=1;exitX=0.746;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.336;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="T3ICBT90jM9kPvNU83P--33" value="1.5 Asistencia presencial" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;dashed=1;exitX=0.746;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="0.0404" width="160" relative="1" as="geometry">
             <mxPoint x="1300.1" y="720" as="sourcePoint" />
-            <mxPoint x="1050" y="720" as="targetPoint" />
+            <mxPoint x="1040" y="720" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
