@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T18:46:37.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="u5YTnKXZAkWipm7Q59i7" version="13.7.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-01T18:47:17.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="yJtGTM3_5hnyRjsNEXMw" version="13.7.7" type="github" pages="5">
   <diagram id="IByfszgsPYmH7Z33qqJC" name="sd Reserva">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -751,7 +751,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9ChIn9X5qMWzfroxfza_" name="sd Reporta">
-    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="AlTiR5gCa2WaLxxdo8Vd-0" />
         <mxCell id="AlTiR5gCa2WaLxxdo8Vd-1" parent="AlTiR5gCa2WaLxxdo8Vd-0" />
@@ -823,13 +823,13 @@
             <mxPoint x="660" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AlTiR5gCa2WaLxxdo8Vd-17" value="2. Consulta reportes" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;" parent="AlTiR5gCa2WaLxxdo8Vd-1" edge="1">
+        <mxCell id="AlTiR5gCa2WaLxxdo8Vd-17" value="2. Consulta reportes" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" parent="AlTiR5gCa2WaLxxdo8Vd-1" edge="1" target="AlTiR5gCa2WaLxxdo8Vd-11" source="AlTiR5gCa2WaLxxdo8Vd-8">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="450" y="220" as="sourcePoint" />
             <mxPoint x="590" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AlTiR5gCa2WaLxxdo8Vd-18" value="7. Edita y entrega reporte" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;" parent="AlTiR5gCa2WaLxxdo8Vd-1" edge="1">
+        <mxCell id="AlTiR5gCa2WaLxxdo8Vd-18" value="7. Edita y entrega reporte" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=0.1;entryY=0.905;entryDx=0;entryDy=0;entryPerimeter=0;" parent="AlTiR5gCa2WaLxxdo8Vd-1" edge="1" target="AlTiR5gCa2WaLxxdo8Vd-8">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="260" y="360" as="sourcePoint" />
             <mxPoint x="420" y="360" as="targetPoint" />
@@ -839,7 +839,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ve2W9B9d9FIWVFeZGBOJ" name="sd Paga Admin">
-    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GIii3W4BaCo0PKrpvov0-0" />
         <mxCell id="GIii3W4BaCo0PKrpvov0-1" parent="GIii3W4BaCo0PKrpvov0-0" />
