@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T18:28:47.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="KZJDzLez8NoySY-cDlN9" version="13.7.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-01T18:37:03.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="89Af_K45Er49BhkoLNlF" version="13.7.7" type="github" pages="5">
   <diagram id="IByfszgsPYmH7Z33qqJC" name="sd Reserva">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -340,7 +340,7 @@
             <mxPoint x="2792" y="130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bqlqlFVX8aRGGul1h23t-7" value="1. Solicita registro" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=-0.15;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="bqlqlFVX8aRGGul1h23t-8" edge="1">
+        <mxCell id="bqlqlFVX8aRGGul1h23t-7" value="1. Solicita registro" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=0.1;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.15;exitY=0.036;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="bqlqlFVX8aRGGul1h23t-8" edge="1" source="bqlqlFVX8aRGGul1h23t-5">
           <mxGeometry x="-0.0843" y="5" width="160" relative="1" as="geometry">
             <mxPoint x="2812" y="173" as="sourcePoint" />
             <mxPoint x="2962" y="173" as="targetPoint" />
@@ -368,13 +368,13 @@
             <mxPoint x="3127" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bqlqlFVX8aRGGul1h23t-13" value="2. Despliega tipo de formulario" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;" parent="1" edge="1">
+        <mxCell id="bqlqlFVX8aRGGul1h23t-13" value="2. Despliega tipo de formulario" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=1.05;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.05;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="bqlqlFVX8aRGGul1h23t-5" source="bqlqlFVX8aRGGul1h23t-8">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="3242" y="203" as="sourcePoint" />
             <mxPoint x="2802" y="203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bqlqlFVX8aRGGul1h23t-14" value="3. Completa formulario y envía" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=0.05;entryY=0.711;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="bqlqlFVX8aRGGul1h23t-8" edge="1">
+        <mxCell id="bqlqlFVX8aRGGul1h23t-14" value="3. Completa formulario y envía" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;entryX=0.05;entryY=0.711;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.05;exitY=0.702;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="bqlqlFVX8aRGGul1h23t-8" edge="1" source="bqlqlFVX8aRGGul1h23t-5">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="2829" y="558" as="sourcePoint" />
             <mxPoint x="2979" y="550" as="targetPoint" />
