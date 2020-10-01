@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T16:24:09.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="jvaP6LqlkvWlM9avV1Or" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T16:27:47.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-b7i5y3nnLBTNksbLTIp" version="13.7.7" type="github">
   <diagram id="TB5ak_UITo0y_XOYZYg2" name="Page-1">
     <mxGraphModel dx="1695" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
         <mxCell id="8FBqwBicPn8zyy1Hs6fu-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=60;arcSize=12;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="2040" y="-80" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8FBqwBicPn8zyy1Hs6fu-7" value="&lt;h2&gt;&lt;b&gt;stm&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;interfaz de administración_Asamblea&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="8FBqwBicPn8zyy1Hs6fu-7" value="&lt;h2&gt;&lt;b&gt;stm&amp;nbsp;&lt;/b&gt;&lt;span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;interfaz de administración_Invitación_Asamblea&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2040" y="-70" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8FBqwBicPn8zyy1Hs6fu-8" value="" style="ellipse;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;fillColor=#000000;strokeColor=#0D0D0D;" parent="1" vertex="1">
