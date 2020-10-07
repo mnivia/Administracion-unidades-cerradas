@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T20:55:04.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="OKemw6kUswlyIhh-ffDd" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T20:58:01.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kILDGqKmYFqV7_QUCJg8" version="13.7.7" type="github">
   <diagram id="Z3_8jYPUzIUkds9CL3SZ" name="Page-1">
     <mxGraphModel dx="1422" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,7 +334,7 @@
             <mxPoint x="1160" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4C9iH8lPQ1NPXi9upBd-81" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+        <mxCell id="W4C9iH8lPQ1NPXi9upBd-81" value="Asamblea" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="1040" width="2410" height="480" as="geometry" />
         </mxCell>
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-82" value="Habitante" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="W4C9iH8lPQ1NPXi9upBd-81">
