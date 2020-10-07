@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T16:27:47.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-b7i5y3nnLBTNksbLTIp" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T15:39:24.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="g32kGV_I2suJEGB7UbZu" version="13.7.7" type="github">
   <diagram id="TB5ak_UITo0y_XOYZYg2" name="Page-1">
-    <mxGraphModel dx="1695" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JngkvSNVzOZS0ROYlZkc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="-90" width="790" height="770" as="geometry" />
+          <mxGeometry x="-200" y="-90" width="870" height="860" as="geometry" />
         </mxCell>
         <mxCell id="JngkvSNVzOZS0ROYlZkc-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="-120" y="-90" width="350" height="40" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="51" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JngkvSNVzOZS0ROYlZkc-9" value="Recibida" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="51" y="305" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="305" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JngkvSNVzOZS0ROYlZkc-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8FBqwBicPn8zyy1Hs6fu-2" target="JngkvSNVzOZS0ROYlZkc-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -526,6 +526,38 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1190" y="330" as="sourcePoint" />
             <mxPoint x="1240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9Ux6BDDx4hAPHosPP13-5" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JngkvSNVzOZS0ROYlZkc-9" target="r9Ux6BDDx4hAPHosPP13-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" y="409.5" as="sourcePoint" />
+            <mxPoint x="100" y="409.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-110" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9Ux6BDDx4hAPHosPP13-6" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Cuándo (El sistema detecta &lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;solicitud tipo gestión de pago)&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="r9Ux6BDDx4hAPHosPP13-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="0.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9Ux6BDDx4hAPHosPP13-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Enviada a tercera plataforma bancaria&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9Ux6BDDx4hAPHosPP13-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9Ux6BDDx4hAPHosPP13-7" target="JngkvSNVzOZS0ROYlZkc-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="345" as="sourcePoint" />
+            <mxPoint x="-100" y="585" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-80" y="740" />
+              <mxPoint x="470" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9Ux6BDDx4hAPHosPP13-9" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Cuándo (El habitnate realiza el pago&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="r9Ux6BDDx4hAPHosPP13-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="0.5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
