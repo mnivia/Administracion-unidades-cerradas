@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T18:22:09.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="D5GHAf6hhjv9Xwr9X992" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T18:22:24.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="X8YJCfCXSCBGjkxRfqRu" version="13.7.7" type="github">
   <diagram id="Z3_8jYPUzIUkds9CL3SZ" name="Page-1">
     <mxGraphModel dx="1422" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,9 +217,6 @@
         </mxCell>
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-20" value="Generar petición de reserva" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="W4C9iH8lPQ1NPXi9upBd-3">
           <mxGeometry x="960" y="210" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="W4C9iH8lPQ1NPXi9upBd-41" value="" style="shape=plus;html=1;outlineConnect=0;" vertex="1" parent="W4C9iH8lPQ1NPXi9upBd-3">
-          <mxGeometry x="1008" y="256" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="W4C9iH8lPQ1NPXi9upBd-1" source="W4C9iH8lPQ1NPXi9upBd-6" target="W4C9iH8lPQ1NPXi9upBd-10">
           <mxGeometry relative="1" as="geometry" />
