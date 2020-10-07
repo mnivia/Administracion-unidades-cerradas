@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T18:19:29.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="3_SdWSE9Q-PAa-PhNrYB" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T18:22:09.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="D5GHAf6hhjv9Xwr9X992" version="13.7.7" type="github">
   <diagram id="Z3_8jYPUzIUkds9CL3SZ" name="Page-1">
     <mxGraphModel dx="1422" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,7 +192,12 @@
           <mxGeometry x="1800" y="95" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="W4C9iH8lPQ1NPXi9upBd-3" source="W4C9iH8lPQ1NPXi9upBd-28" target="W4C9iH8lPQ1NPXi9upBd-51">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2070" y="115" />
+              <mxPoint x="2070" y="115" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-28" value="Responder solcitud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="W4C9iH8lPQ1NPXi9upBd-3">
           <mxGeometry x="1920" y="95" width="100" height="50" as="geometry" />
@@ -290,18 +295,6 @@
             <mxPoint x="1100" y="500" as="sourcePoint" />
             <mxPoint x="1160" y="500" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="W4C9iH8lPQ1NPXi9upBd-23" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="111" y="90" as="sourcePoint" />
-            <mxPoint x="111.5" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="111" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W4C9iH8lPQ1NPXi9upBd-24" value="When(El sistema percibe la solicitud)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="W4C9iH8lPQ1NPXi9upBd-23">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
