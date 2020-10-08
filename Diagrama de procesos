@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T19:59:58.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="EjLDz5c5w2oQWz6rJ_6V" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T20:02:05.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Nm4ekQuGfXC37pGeI0DF" version="13.7.7" type="github">
   <diagram id="Z3_8jYPUzIUkds9CL3SZ" name="Page-1">
     <mxGraphModel dx="1422" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -485,6 +485,9 @@
         </mxCell>
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-3" value="Plataforma" style="swimlane;html=1;startSize=20;horizontal=0;" parent="W4C9iH8lPQ1NPXi9upBd-1" vertex="1">
           <mxGeometry x="20" y="160" width="2260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MKc_h8TRB2jdLBFbpGVU-184" value="-PSE&lt;br&gt;-Servicio bancario de preferencia" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="W4C9iH8lPQ1NPXi9upBd-3">
+          <mxGeometry x="1130" y="12" width="160" height="58" as="geometry" />
         </mxCell>
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-18" value="Gestionar pago" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="W4C9iH8lPQ1NPXi9upBd-3" vertex="1">
           <mxGeometry x="1000" y="45" width="110" height="50" as="geometry" />
