@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T23:25:19.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.70" etag="BeJDIOXX632XrtXvGtGC" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T23:25:58.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.70" etag="EHe9i1V-drgiltiRXrMa" version="13.7.6" type="github">
   <diagram id="Z3_8jYPUzIUkds9CL3SZ" name="Page-1">
     <mxGraphModel dx="1461" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -820,6 +820,9 @@
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-129" value="Usuario" style="swimlane;html=1;startSize=20;horizontal=0;" parent="W4C9iH8lPQ1NPXi9upBd-128" vertex="1">
           <mxGeometry x="20" width="1770" height="360" as="geometry" />
         </mxCell>
+        <mxCell id="l2Bmsf7NUXhazx_Xjwmj-2" value="Publicación cancelada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="W4C9iH8lPQ1NPXi9upBd-129">
+          <mxGeometry x="1613.5" y="170" width="137" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-146" value="Inscribir información" style="rounded=1;whiteSpace=wrap;html=1;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
           <mxGeometry x="350" y="215" width="110" height="50" as="geometry" />
         </mxCell>
@@ -1095,9 +1098,6 @@
         </mxCell>
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-177" value="Consulta solicitada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3730" y="850" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MKc_h8TRB2jdLBFbpGVU-185" value="Publicación eliminada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3980" y="-25" width="137" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
