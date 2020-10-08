@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T20:47:48.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.70" etag="De-cGClHCNnvLhN5dHqz" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T23:10:19.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.70" etag="ki15I6w-eYV34aBI8zFa" version="13.7.6" type="github">
   <diagram id="Z3_8jYPUzIUkds9CL3SZ" name="Page-1">
-    <mxGraphModel dx="1242" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="864" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-11" value="Escoger acción de reporte&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKc_h8TRB2jdLBFbpGVU-6" vertex="1">
           <mxGeometry x="490" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MKc_h8TRB2jdLBFbpGVU-142" value="Generar reporte" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKc_h8TRB2jdLBFbpGVU-6" vertex="1">
+        <mxCell id="MKc_h8TRB2jdLBFbpGVU-142" value="Generar reporte de publicación" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKc_h8TRB2jdLBFbpGVU-6" vertex="1">
           <mxGeometry x="2170" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-129" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MKc_h8TRB2jdLBFbpGVU-6" vertex="1">
@@ -111,7 +111,7 @@
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-13" value="Escribir información" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKc_h8TRB2jdLBFbpGVU-6" vertex="1">
           <mxGeometry x="983" y="155" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MKc_h8TRB2jdLBFbpGVU-131" value="Eliminar información" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKc_h8TRB2jdLBFbpGVU-6" vertex="1">
+        <mxCell id="MKc_h8TRB2jdLBFbpGVU-131" value="Eliminar información de publicación" style="rounded=1;whiteSpace=wrap;html=1;" parent="MKc_h8TRB2jdLBFbpGVU-6" vertex="1">
           <mxGeometry x="2170" y="75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-132" value="" style="shape=mxgraph.bpmn.user_task;html=1;outlineConnect=0;" parent="MKc_h8TRB2jdLBFbpGVU-6" vertex="1">
