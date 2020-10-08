@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T16:22:33.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="siP1SlUh8JJO7ZKRg6On" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T16:27:13.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="foJ6GBzxC_5hhdvHWPi8" version="13.7.7" type="github">
   <diagram id="Z3_8jYPUzIUkds9CL3SZ" name="Page-1">
     <mxGraphModel dx="1662" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-6" value="Habitante" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="MKc_h8TRB2jdLBFbpGVU-5">
           <mxGeometry x="20" width="2540" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MKc_h8TRB2jdLBFbpGVU-155" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;" vertex="1" parent="MKc_h8TRB2jdLBFbpGVU-6">
+          <mxGeometry x="1870" y="105" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-10" value="Escoger ventana de reporte" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MKc_h8TRB2jdLBFbpGVU-6">
           <mxGeometry x="130" y="155" width="120" height="50" as="geometry" />
@@ -44,6 +47,9 @@
           <mxGeometry x="50" y="165" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MKc_h8TRB2jdLBFbpGVU-6" source="MKc_h8TRB2jdLBFbpGVU-11" target="MKc_h8TRB2jdLBFbpGVU-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKc_h8TRB2jdLBFbpGVU-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MKc_h8TRB2jdLBFbpGVU-6" source="MKc_h8TRB2jdLBFbpGVU-63" target="MKc_h8TRB2jdLBFbpGVU-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-63" value="Generar reporte" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MKc_h8TRB2jdLBFbpGVU-6">
