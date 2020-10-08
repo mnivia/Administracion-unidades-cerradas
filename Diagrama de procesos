@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T23:18:42.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.70" etag="8N7Jx3juBitO_hXVzbjs" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T23:25:19.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.70" etag="BeJDIOXX632XrtXvGtGC" version="13.7.6" type="github">
   <diagram id="Z3_8jYPUzIUkds9CL3SZ" name="Page-1">
-    <mxGraphModel dx="864" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1461" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -826,7 +826,7 @@
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-145" value="Escoger acción de crear publicación&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
           <mxGeometry x="150" y="215" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="W4C9iH8lPQ1NPXi9upBd-179" value="Publicar información" style="rounded=1;whiteSpace=wrap;html=1;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
+        <mxCell id="W4C9iH8lPQ1NPXi9upBd-179" value="Publicar información de la publicación" style="rounded=1;whiteSpace=wrap;html=1;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
           <mxGeometry x="1419" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-173" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="W4C9iH8lPQ1NPXi9upBd-129">
@@ -838,13 +838,13 @@
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-172" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="W4C9iH8lPQ1NPXi9upBd-129">
           <mxGeometry x="739" y="121" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="W4C9iH8lPQ1NPXi9upBd-186" value="Eliminar información" style="rounded=1;whiteSpace=wrap;html=1;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
+        <mxCell id="W4C9iH8lPQ1NPXi9upBd-186" value="Eliminar información de la publicación" style="rounded=1;whiteSpace=wrap;html=1;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
           <mxGeometry x="1419" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W4C9iH8lPQ1NPXi9upBd-181" value="&lt;br&gt;Publicar información" style="rounded=1;whiteSpace=wrap;html=1;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
+        <mxCell id="W4C9iH8lPQ1NPXi9upBd-181" value="&lt;br&gt;Publicar información de la publicación" style="rounded=1;whiteSpace=wrap;html=1;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
           <mxGeometry x="917" y="120" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W4C9iH8lPQ1NPXi9upBd-223" value="Eliminar información" style="rounded=1;whiteSpace=wrap;html=1;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
+        <mxCell id="W4C9iH8lPQ1NPXi9upBd-223" value="Eliminar información de la publicación" style="rounded=1;whiteSpace=wrap;html=1;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
           <mxGeometry x="917" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="W4C9iH8lPQ1NPXi9upBd-129" source="W4C9iH8lPQ1NPXi9upBd-145" target="W4C9iH8lPQ1NPXi9upBd-146" edge="1">
@@ -957,7 +957,7 @@
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-183" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
           <mxGeometry x="577" y="200" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="W4C9iH8lPQ1NPXi9upBd-220" value="Confirmar publiacion?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
+        <mxCell id="W4C9iH8lPQ1NPXi9upBd-220" value="¿Confirmar publicación?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
           <mxGeometry x="662" y="145" width="106" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-236" value="" style="shape=mxgraph.bpmn.user_task;html=1;outlineConnect=0;" parent="W4C9iH8lPQ1NPXi9upBd-129" vertex="1">
@@ -1090,7 +1090,7 @@
         <mxCell id="W4C9iH8lPQ1NPXi9upBd-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="W4C9iH8lPQ1NPXi9upBd-240" source="W4C9iH8lPQ1NPXi9upBd-249" target="W4C9iH8lPQ1NPXi9upBd-250" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MKc_h8TRB2jdLBFbpGVU-75" value="Desea una información adicional?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MKc_h8TRB2jdLBFbpGVU-75" value="¿Desea una información adicional?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3377" y="165" width="147" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MKc_h8TRB2jdLBFbpGVU-177" value="Consulta solicitada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
