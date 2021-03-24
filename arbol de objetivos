@@ -1,1 +1,144 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T16:21:12.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="13.9.9" etag="XK0Z_rK29QKwkfN1sFcX" type="github"><diagram id="NLfGOk_w6th2DL_ybedP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-24T20:03:11.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="-J2Nu-Vry6Jf1VEZr7wm" version="13.9.9" type="github">
+  <diagram id="NLfGOk_w6th2DL_ybedP" name="Page-1">
+    <mxGraphModel dx="440" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-1" value="&lt;font style=&quot;font-size: 6px&quot;&gt;Asegurar el crecimiento de nuestros jóvenes.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="610" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-2" target="mNVvX8ZWVzz3Pq7MBNI6-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="183" y="720" />
+              <mxPoint x="357" y="720" />
+              <mxPoint x="357" y="738" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-2" target="mNVvX8ZWVzz3Pq7MBNI6-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="183" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-2" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Aumenta la asistencia escolar.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="670" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-3" target="mNVvX8ZWVzz3Pq7MBNI6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-3" value="&lt;font style=&quot;font-size: 7px&quot;&gt;Se reduce la mortalidad en los niños.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="670" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="513" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-4" target="mNVvX8ZWVzz3Pq7MBNI6-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="513" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-4" value="&lt;font style=&quot;font-size: 7px&quot;&gt;Se mitigan los costos de manutención de los niños.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="670" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-6" target="mNVvX8ZWVzz3Pq7MBNI6-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="357" y="770" />
+              <mxPoint x="173" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-6" target="mNVvX8ZWVzz3Pq7MBNI6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Niños en buen estado de salud.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="730" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-7" target="mNVvX8ZWVzz3Pq7MBNI6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-7" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Propiciar una red de agua potable.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="790" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293.0000000000001" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-8" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Incentivar la higiene de las personas.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="790" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-9" target="mNVvX8ZWVzz3Pq7MBNI6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-9" value="&lt;font style=&quot;font-size: 7px&quot;&gt;Colocar lugares para hacer necesidades.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="790" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-10" target="mNVvX8ZWVzz3Pq7MBNI6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-10" target="mNVvX8ZWVzz3Pq7MBNI6-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="553" y="770" />
+              <mxPoint x="357" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-10" value="&lt;font style=&quot;font-size: 9px&quot;&gt;A&lt;/font&gt;&lt;font style=&quot;font-size: 7px&quot;&gt;segurar la alimentación de los niños.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="790" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=-0.081;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-12" target="mNVvX8ZWVzz3Pq7MBNI6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-12" value="Gestión de alcantarillado." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="840" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-13" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Mantenimiento del alcantarillado.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="890" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-14" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Proporcionar elementos de higiene.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="840" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mNVvX8ZWVzz3Pq7MBNI6-15" target="mNVvX8ZWVzz3Pq7MBNI6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-15" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Enseñar higiene personal.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="890" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-16" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Lugares higienicos.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="840" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-17" value="Lugares seguros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="890" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-18" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Buscar apoyo gubernamental.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="840" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNVvX8ZWVzz3Pq7MBNI6-19" value="Buscar donaciones." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="890" width="86" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
