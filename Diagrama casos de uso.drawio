@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T03:14:34.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="X7l0K6ivnYJbqe5Dmz28" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T03:19:45.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="tKBhWVnUS3iW3LwSyi65" version="15.7.3" type="github">
   <diagram id="JqKcGQJoDCqcwupZXbkY" name="Page-1">
-    <mxGraphModel dx="2301" dy="3057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="93" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -854,8 +854,8 @@
         <mxCell id="RDo0nGNt-uCjCAe4fKME-101" value="Administrativos" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="4170" y="265" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RDo0nGNt-uCjCAe4fKME-103" value="Gestión de Actividades de Bienestar Universitario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4810" y="-200" width="155" height="30" as="geometry" />
+        <mxCell id="RDo0nGNt-uCjCAe4fKME-103" value="Gestión de Actividades lúdico- deportiva de Bienestar Universitario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4780" y="-200" width="185" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RDo0nGNt-uCjCAe4fKME-122" value="Ver descripción de la oferta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4780" y="50" width="100" height="50" as="geometry" />
