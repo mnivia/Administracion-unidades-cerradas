@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T04:21:06.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="5d4o7ZUep2v5D4p0Ce9x" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T04:22:15.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="v07uM1qMRBiZSe_DuMuU" version="15.7.3" type="github">
   <diagram id="AtlF3DiGu45CcL0kuLVt" name="Page-1">
     <mxGraphModel dx="4261" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -941,6 +941,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="1973.8094656808037" as="sourcePoint" />
             <mxPoint x="680" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHE03YYVzTh4PFNWfRJk-212" value="&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;id=&quot;R1&quot;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Todo usuario debe proporcionar la información de registro necesaria para poder acceder a la plataforma según su rol en la plataforma.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="810" width="200" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="lHE03YYVzTh4PFNWfRJk-214" value="&lt;b&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;Gestión de Actividades lúdico- deportiva de Bienestar Universitario&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="830" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lHE03YYVzTh4PFNWfRJk-215" value="" style="endArrow=none;html=1;rounded=0;entryX=1.002;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1619.9999999999995" y="868.36" as="sourcePoint" />
+            <mxPoint x="1820.3999999999992" y="868.3299999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHE03YYVzTh4PFNWfRJk-216" value="" style="endArrow=none;html=1;exitX=0.145;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-58" target="lHE03YYVzTh4PFNWfRJk-212">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="642.8000000000002" y="740" as="sourcePoint" />
+            <mxPoint x="-255.40000000000055" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
