@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T14:29:27.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="1dPiuC-FjfizLdfGIKbe" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T14:34:14.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Lvy9CVoWazwW3tcJYNMb" version="15.8.8" type="github">
   <diagram id="AtlF3DiGu45CcL0kuLVt" name="Page-1">
-    <mxGraphModel dx="4345" dy="2843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4794" dy="3122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,6 +283,9 @@
         <mxCell id="lHE03YYVzTh4PFNWfRJk-71" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" parent="1" vertex="1">
           <mxGeometry x="-285" y="995" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="w0Fq3j5Zvpti_DWXrjmZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-74" target="lHE03YYVzTh4PFNWfRJk-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-74" value="&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;id=&quot;R1.1&quot;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Toda oferta debe tener: Horario, lugar y responsable de la actividad, además si se requiere llevar elementos extra a la actividad.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1238.6" y="1120" width="200" height="155" as="geometry" />
         </mxCell>
@@ -297,6 +300,9 @@
               <mxPoint x="-1098.6" y="1178" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w0Fq3j5Zvpti_DWXrjmZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-80" target="lHE03YYVzTh4PFNWfRJk-118">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-80" value="&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: justify&quot;&gt;La publicación se realiza a inicio del semestre académico&amp;nbsp;y se puede actualizar en cualquier momento del mismo.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1236.1999999999998" y="1350" width="200" height="155" as="geometry" />
@@ -316,6 +322,9 @@
         <mxCell id="lHE03YYVzTh4PFNWfRJk-84" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" parent="1" vertex="1">
           <mxGeometry x="-423.5" y="995" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="w0Fq3j5Zvpti_DWXrjmZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.489;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-85" target="lHE03YYVzTh4PFNWfRJk-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-85" value="&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;id=&quot;R1.2&quot;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Toda oferta debe tener: Horario, lugar y responsable de la actividad, además si se requiere llevar elementos extra a la actividad.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-838.6" y="1110" width="200" height="155" as="geometry" />
         </mxCell>
@@ -330,6 +339,9 @@
               <mxPoint x="-698.6" y="1168" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w0Fq3j5Zvpti_DWXrjmZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-88" target="lHE03YYVzTh4PFNWfRJk-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-88" value="&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;La inscripción se realizará mediante el ingreso de los datos básicos&amp;nbsp;del usuario.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-836.2" y="1340" width="200" height="155" as="geometry" />
@@ -346,6 +358,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="w0Fq3j5Zvpti_DWXrjmZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.347;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-91" target="lHE03YYVzTh4PFNWfRJk-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-91" value="&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;El mensaje le permitirá&amp;nbsp;al usuario confirmar su inscripción y visualizar los detalles de la actividad.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-836.2" y="1530" width="200" height="155" as="geometry" />
         </mxCell>
@@ -361,6 +376,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="w0Fq3j5Zvpti_DWXrjmZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.486;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-94" target="lHE03YYVzTh4PFNWfRJk-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-94" value="&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;id=&quot;R1.3&quot;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Toda El usuario podrá&amp;nbsp;eliminar su inscripción&amp;nbsp;en cualquier momento del semestre académico.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-465" y="1120" width="200" height="155" as="geometry" />
         </mxCell>
@@ -374,6 +392,11 @@
             <Array as="points">
               <mxPoint x="-325" y="1178" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0Fq3j5Zvpti_DWXrjmZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.33;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-97" target="lHE03YYVzTh4PFNWfRJk-218">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="1790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-97" value="&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;La una vez realizada la eliminación&amp;nbsp;se le pedirá&amp;nbsp;al usuario llenar una encuesta del posible motivo o digitar las mismas&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -391,6 +414,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="w0Fq3j5Zvpti_DWXrjmZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.485;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-100" target="lHE03YYVzTh4PFNWfRJk-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-100" value="&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;id=&quot;R1.4&quot;Las encuestas especificara a que actividad va atado cada horario&lt;span style=&quot;text-align: justify&quot;&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-84.79999999999998" y="1110" width="200" height="155" as="geometry" />
         </mxCell>
@@ -406,6 +432,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="w0Fq3j5Zvpti_DWXrjmZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-103" target="lHE03YYVzTh4PFNWfRJk-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-103" value="&lt;br&gt;&lt;br&gt;El usuario completara la encuesta según su preferencia." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-82.4" y="1340" width="200" height="155" as="geometry" />
         </mxCell>
@@ -420,6 +449,9 @@
               <mxPoint x="57.59999999999999" y="1398" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w0Fq3j5Zvpti_DWXrjmZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.29;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-106" target="lHE03YYVzTh4PFNWfRJk-219">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-106" value="&lt;br&gt;&lt;br&gt;Una vez completada la encuesta se analizara y se tomara en cuenta para nuevas actividades." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-85.20000000000002" y="1545" width="200" height="155" as="geometry" />
@@ -465,6 +497,9 @@
               <mxPoint x="465.5999999999999" y="1408" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w0Fq3j5Zvpti_DWXrjmZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.349;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lHE03YYVzTh4PFNWfRJk-115" target="lHE03YYVzTh4PFNWfRJk-220">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-115" value="&lt;br&gt;&lt;br&gt;Una vez completado el estudio se dará a conocer de que manera se llevará a cabo la actividad con sus especificaciones" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322.7999999999999" y="1555" width="200" height="155" as="geometry" />
