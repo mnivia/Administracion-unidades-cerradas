@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T13:57:38.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="PXwsJLm2eJQOh2FdNrZj" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T13:57:54.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="gBjAQWMBJ8TJtlEEO7zC" version="15.8.8" type="github">
   <diagram id="AtlF3DiGu45CcL0kuLVt" name="Page-1">
     <mxGraphModel dx="2439" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lHE03YYVzTh4PFNWfRJk-226" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;req&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;interfaz de administracion_Requerimientos&lt;/span&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=230;height=50;" parent="1" vertex="1">
-          <mxGeometry x="-1060" y="590" width="4150" height="1335" as="geometry" />
-        </mxCell>
         <mxCell id="lHE03YYVzTh4PFNWfRJk-69" value="&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;id=&quot;R1&quot;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Todo usuario debe proporcionar la información de registro necesaria para poder acceder a la plataforma según su rol en la plataforma.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-465.4" y="840" width="200" height="155" as="geometry" />
         </mxCell>
@@ -1002,6 +999,9 @@
             <mxPoint x="-250" y="990" as="sourcePoint" />
             <mxPoint x="-200" y="940" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lHE03YYVzTh4PFNWfRJk-226" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;req&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;interfaz de administracion_Requerimientos&lt;/span&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=230;height=50;" parent="1" vertex="1">
+          <mxGeometry x="-1060" y="590" width="4150" height="1335" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
